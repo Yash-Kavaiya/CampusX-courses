@@ -1,6 +1,7 @@
 # Campusx-10-courses
 
 Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW883YDfahqvcuzMx96ygWJM/edit#gid=0
+
 **Potential Course Titles**
 
 1. **Introduction to Generative AI with LangChain**
