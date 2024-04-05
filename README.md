@@ -17,7 +17,7 @@ It seems you want to schedule a series of courses. Here's a breakdown of possibl
 
 **Important Considerations** 
 
-* [] **Your Background:**  Are you a beginner, or do you have experience in data science, programming, or specific technologies? 
+- [ ] **Your Background:**  Are you a beginner, or do you have experience in data science, programming, or specific technologies? 
 * **Your Goals:** What are you hoping to learn? Are these courses for career advancement or personal interest?
 * **Course Sequencing:** Some courses may naturally build on each other (e.g., Intro to Generative AI followed by more advanced courses).
 * **Prerequisites:** Do any of the courses have specific prerequisites that you need to be aware of?
