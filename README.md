@@ -43,3 +43,6 @@ Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW8
 - [x] **Consider Time Commitment:** Ensure you can realistically dedicate the time needed for each course. 
 
 
+**Disclaimer:**
+
+This repository is intended for educational purposes only. All credit for the content and materials within this repository goes to CampusX. It is meant to facilitate learning and exploration within the specified subject matter. Users are encouraged to abide by ethical guidelines and use the information responsibly. The creators and contributors of this repository are not liable for any misuse or misinterpretation of the content here in.
