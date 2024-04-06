@@ -70,7 +70,7 @@ In Convolutional Neural Networks (CNNs), a kernel (also known as a filter) is a 
 1. **Sliding Window:** The kernel slides over the input data (usually an image) in a convolutional manner. Think of it like a magnifying glass moving across a map.
 2. **Element-wise Multiplication and Summation:** At each position, the kernel performs element-wise multiplication between its values and the corresponding values in the input image. The products are then summed up to produce a single number.
 3. **Feature Map:** As the kernel slides over the entire input, it creates a new, smaller output called a feature map (or activation map).
-
+![GIF](https://miro.medium.com/max/1400/1*O06nY1U7zoP4vE5AZEnxKA.gif)
 **What Kernels Do**
 
 * **Feature Extraction:**  Different kernels are trained to detect specific features within the image. For example:
@@ -176,6 +176,7 @@ In Convolutional Neural Networks (CNNs), padding is a crucial technique used to 
 * **Preserves Information:** Without padding, the size of the output feature map typically shrinks after each convolution operation due to the filter "sliding" over the input. This can lead to information loss, especially at the edges of the image. Padding adds extra pixels around the border of the input, mitigating this issue.
 * **Controls Output Size:** Padding allows you to control the size of the output feature map. This can be beneficial for maintaining consistent dimensions across certain network architectures or ensuring specific output sizes for tasks like image segmentation. 
 * **Improves Training Stability:** Padding can also contribute to a more stable training process by maintaining similar receptive fields (the area of the input an output element "sees") across convolutional layers. 
+![image](https://github.com/Dishantkharkar/Campusx-10-courses/assets/130529528/6b216843-3af6-42f4-92b0-41080297c764)
 
 **Types of Padding in CNNs:**
 
@@ -219,6 +220,7 @@ Strides in Convolutional Neural Networks (CNNs) are a hyperparameter that contro
 * **Example:**
    * A stride of 1 means the filter moves one pixel at a time.
    * A stride of 2 means it jumps two pixels with every move.
+![GIF](https://content.codecademy.com/courses/deeplearning-with-tensorflow/image-classification/stride.gif)
 
 **Effect of Stride on Output Dimensions**
 
@@ -270,6 +272,7 @@ The optimal stride depends on your specific CNN architecture and task. Here's a 
 * **Max Pooling:** The most popular type. It takes the maximum value within the pooling window, highlighting the most prominent activation (feature detected) in that area.
 * **Average Pooling:**  Calculates the average of all values within the pooling window. Used less frequently, but it can have a smoothing effect on the feature maps.
 * **L2-Norm Pooling:** A less common variation that takes the square root of the sum of squares within the pooling window.
+![image](https://github.com/Dishantkharkar/Campusx-10-courses/assets/130529528/fb6eafd8-3aac-4116-822e-b24805974b31)
 
 **How Pooling Works**
 
