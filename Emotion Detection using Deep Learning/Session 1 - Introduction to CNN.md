@@ -22,6 +22,9 @@ Images on your computer screen or a digital photograph are not exactly what they
 * Imagine a mosaic – a picture made from many small tiles. Each tile in the mosaic is like a pixel in a digital image. 
 * Millions or even billions of pixels come together to form the images you see on your screens.
 * Each pixel itself can’t display a vast range of colors, but by combining them in different ways, they can create a whole spectrum of colors. 
+* We don't want to have more than one colors in one pixel so we increase the number of pixels so that we can have one color per pixel to get more
+* accurate and valuable information from given image.
+* There are 0 to 255 values in a single pixel.
 
 **How Pixels Work**
 
