@@ -2,7 +2,7 @@
 
 | Instructor name | Instructor LinkedIn profile | Instructor Youtube channel | Instructor Instagram profile |
 |-----------------|-----------------------------|--------------------------|------------------------|
-| Balaji Chippada | [LinkedIn](hhttps://www.linkedin.com/in/balaji-chippada-0317/) | [YouTube](https://www.youtube.com/@balajichippada) | [Instagram](https://www.instagram.com/balajichippada) |
+| Balaji Chippada | [LinkedIn](https://www.linkedin.com/in/balaji-chippada-0317/) | [YouTube](https://www.youtube.com/@balajichippada) | [Instagram](https://www.instagram.com/balajichippada) |
 
 ### Course Link
 
