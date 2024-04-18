@@ -1,4 +1,4 @@
-# AI Tools
+## AI Tools
 
 | Title                                      | Description                                                                                                       | Link                                                     |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -11,7 +11,7 @@
 | Ollama                                     | Discover AI-powered tools and resources for various applications.                                                  | [Ollama](https://ollama.com/library/gemma)              |
 | My Collection                              | A beginner-friendly guide to the world of LLMS and AI advancements.                                                | [My Collection](https://medium.com/@amanatulla1606/unveiling-the-world-of-llms-and-ai-advancements-a-beginner-friendly-guide-49525ce023f8) |
 
-# Agent 
+## Agent 
 
 | Title       | Description                                                      | Link                                                |
 |-------------|------------------------------------------------------------------|-----------------------------------------------------|
@@ -24,7 +24,7 @@
 | MetaGPT     | GitHub repository for the MetaGPT project.                       | [MetaGPT](https://github.com/geekan/MetaGPT)       |
 | Suno V3     | Access Suno V3, an AI-powered application.                       | [Suno V3](https://app.suno.ai/)                     |
 
-**What is GenerativeAI**
+### **What is GenerativeAI**
 
 - Generative AI refers to a class of artificial intelligence techniques and algorithms designed to generate new content, data, or outputs that mimic or are similar to those found in the training data it has been exposed to. Instead of simply recognizing patterns in data or making predictions based on existing data, generative AI models can create entirely new content that has never been seen before.
 
@@ -35,7 +35,7 @@
 Before the advent of large language models (LLMs), such as GPT models, statistical methods were the dominant approach in natural language processing tasks like machine translation. One of the prominent techniques used was Statistical Machine Translation (SMT). Here's how SMT works and how it differs from the techniques used in LLMs:
 
 
-**1.Statistical Machine Translation (SMT):**
+### **1.Statistical Machine Translation (SMT):**
 
 - **Explanation:** SMT is based on statistical models that learn translation patterns from large bilingual corpora. These models estimate the likelihood of translating a source sentence to a target sentence based on observed translations in the training data.<br><br>
 
@@ -46,15 +46,15 @@ Example Sentence (Source Language - French):<br><br>
 Translation Task:<br><br>
 Translate the sentence from French to English using alignment models, translation models, and language models.<br><br>
 
-**Alignment Model:**<br><br>
+### **Alignment Model:**<br><br>
 
 The alignment model identifies word correspondences between the source (French) and target (English) languages.<br><br>
 For example, it might align "Le" with "The", "chat" with "cat", "noir" with "black", "dort" with "sleeps", and so on.<br><br>
-**Translation Model:**<br><br>
+### **Translation Model:**<br><br>
 
 The translation model captures translation patterns between phrases or sub-sentential units in the source and target languages.
 For example, it learns that "le chat noir" often translates to "the black cat" and "sur le tapis" translates to "on the carpet".<br><br>
-**Language Model:**<br><br>
+### **Language Model:**<br><br>
 
 The language model estimates the probability of generating a sequence of words in the target language (English).
 For example, it ensures that the generated translation is fluent and natural-sounding, taking into account English syntax and semantics.
@@ -65,16 +65,17 @@ For example, it ensures that the generated translation is fluent and natural-sou
 ![voice_assistant.jpg](./content/voice_assistant.jpg)
 Early versions of virtual assistants like Siri utilized machine learning techniques to enhance their performance. These included Hidden Markov Models (HMMs) for speech recognition, supervised learning algorithms for understanding language semantics and classifying user queries, natural language processing (NLP) techniques for processing text input, and feature engineering for extracting relevant information. While effective at the time, modern virtual assistants have evolved to employ more advanced deep learning techniques like recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformers, enabling higher accuracy, robustness, and adaptability to user inputs and contexts.
 
-**Hidden Markov Models (HMMs):**<br><br>
+### **Hidden Markov Models (HMMs):**<br><br>
 
 Hidden Markov Models are used for tasks like speech recognition, where the goal is to understand spoken words. Imagine you're talking to a virtual assistant like Siri. It listens to your words and tries to figure out what you're saying. HMMs help by modeling the probabilities of different sounds and words occurring together. For example, if you say "hello," the virtual assistant's HMM might recognize the sequence of sounds and guess that you're greeting it.<br><br>
-**Supervised Learning Algorithms:**<br><br>
+
+### **Supervised Learning Algorithms:**<br><br>
 
 Supervised learning algorithms are used to understand the meaning of language and classify user queries. For example, when you ask Siri a question like "What's the weather like today?" it needs to understand that you're asking about the weather and then find the relevant information for you. Supervised learning algorithms are trained on lots of examples of questions and their correct answers to learn how to classify new questions.<br><br>
-**Natural Language Processing (NLP) Techniques:**<br><br>
+### **Natural Language Processing (NLP) Techniques:**<br><br>
 
 Natural Language Processing techniques are used to process and understand text input. When you type a message to Siri, it needs to understand the meaning of your words. NLP techniques help by analyzing the structure and meaning of sentences. For example, if you type "Remind me to buy milk tomorrow," NLP techniques help Siri understand that you want to be reminded to buy milk the next day.<br><br>
-**Feature Engineering:**<br><br>
+### **Feature Engineering:**<br><br>
 
 Feature engineering involves extracting relevant information from the input data to help machine learning algorithms make better predictions. For example, if Siri is trying to understand a spoken command, it might extract features like the frequency of different sounds or the length of pauses between words to help the HMM recognize the spoken words more accurately.
 
@@ -83,7 +84,7 @@ Feature engineering involves extracting relevant information from the input data
 
 # Different GenerativeAI
 
-## **Generative Adversarial Networks (GANs):**
+### **Generative Adversarial Networks (GANs):**
 
 Generative Adversarial Networks (GANs) can be broken down into three parts:
 
@@ -114,7 +115,7 @@ Conversely, if D correctly identifies G’s fake data (score close to 0), but G 
 This ongoing duel between G and D refines both networks over time.
 As training progresses, G gets better at generating realistic data, making it harder for D to tell the difference. Ideally, G becomes so adept that D can’t reliably distinguish real from fake data. At this point, G is considered well-trained and can be used to generate new, realistic data samples.
 
-**Application Of Generative Adversarial Networks (GANs)**<br><br>
+### **Application Of Generative Adversarial Networks (GANs)**<br><br>
 GANs, or Generative Adversarial Networks, have many uses in many different fields. Here are some of the widely recognized uses of GANs:
 
 **Image Synthesis and Generation :** GANs are often used for picture synthesis and generation tasks,  They may create fresh, lifelike pictures that mimic training data by learning the distribution that explains the dataset. The development of lifelike avatars, high-resolution photographs, and fresh artwork have all been facilitated by these types of generative networks.<br><br>
@@ -123,7 +124,7 @@ GANs, or Generative Adversarial Networks, have many uses in many different field
 **Data Augmentation :** GANs can augment present data and increase the robustness and generalizability of machine-learning models by creating synthetic data samples.<br><br>
 **Data Generation for Training :** GANs can enhance the resolution and quality of low-resolution images. By training on pairs of low-resolution and high-resolution images, GANs can generate high-resolution images from low-resolution inputs, enabling improved image quality in various applications such as medical imaging, satellite imaging, and video enhancement.
 
-##**Variational AutoEncoders(VAE)**
+### **Variational AutoEncoders(VAE)**
 
 Variational Autoencoders (VAEs) are a type of generative model used in unsupervised learning tasks, particularly in the field of deep learning and neural networks. They are an extension of traditional autoencoders, which are neural network architectures used for dimensionality reduction and feature learning. VAEs aim to learn the underlying probability distribution of input data in an unsupervised manner and generate new data samples similar to the training data.
 
@@ -138,7 +139,7 @@ They don't explicitly learn a distribution over the latent space.
 They can generate only a fixed set of data samples from the input distribution.
 VAEs were introduced to overcome these limitations by introducing a probabilistic approach to learning latent representations. They provide a way to generate new data samples by sampling from a learned distribution in the latent space, allowing for more flexibility and diversity in the generated samples.
 
-**Architecture:**
+### **Architecture:**
 
 - The architecture of a VAE consists of three main components:
 
@@ -176,13 +177,13 @@ Variational Autoencoder Approach:<br><br>
 
 By learning a distribution over the latent space, VAEs capture the diversity in molecular structures and can generate new molecules by sampling from the learned distribution and decoding the samples into realistic molecular structures.
 
-## **Autoregressive Models:**
+### **Autoregressive Models:**
 
 - Autoregressive models are a type of statistical model used in time series analysis and sequence generation tasks. The term "autoregressive" refers to the idea that each element in the sequence is predicted based on previous elements in the same sequence. This means that the model learns the conditional probability distribution of each element given its past elements.
 
 - The name "autoregressive" stems from the fact that the model regresses on its own past outputs to predict future outputs in a sequence. Each element in the sequence is predicted based on the previous elements, making it "auto" and "regressive" in nature. This modeling approach has proven to be effective in capturing dependencies and patterns in sequential data, leading to its widespread adoption in various applications, particularly in natural language processing.
 
-##**Large Language Model**
+## **Large Language Model**
 ![intro_LLM.png](./content/intro_LLM.png)
 **"LLM" stands for "Large Language Model."** This term is used to refer to language models that are exceptionally large in terms of the number of parameters and the amount of training data used to train them. LLMs are characterized by their ability to understand and generate human-like text across a wide range of tasks, including natural language understanding (NLU) and natural language generation (NLG).
 
