@@ -16,19 +16,6 @@
 
 
 **Key Highlights:**
- - Introduction to AWS ecosystem and Sagemaker
- - Data Cleaning ( If time permits)
- - ML Workflow
- - Data Cleaning
- - EDA
- - Data Preprcessing 
- - Feature Engineering 
- - Work with AWS SageMaker Notebook instance
- - Create an IAM role
- - Set-up datasets with AWS S3 Bucket 
- - Train a Machine Learning model using AWS SageMaker
- - Perform Hyperparameter Tuning using AWS Sagemaker
- - Expose Trained Model as Web Application using Streamlit
- - Deploy Web Appliction over streamlit cloud
 
+ 
 **What you will learn:**
