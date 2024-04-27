@@ -1,8 +1,6 @@
 # Banking
 
-Here's a breakdown of assets and liabilities in the BFSI (Banking, Financial Services, and Insurance) domain:
-
-**Assets**
+### **Assets**
 
 In the BFSI world, assets are resources that a financial institution owns or controls, and which have economic value that can generate future benefits. Here are common types:
 
@@ -12,7 +10,7 @@ In the BFSI world, assets are resources that a financial institution owns or con
 * **Property and Equipment:** Physical assets like buildings, land, computers, and furniture owned by the institution.
 * **Intangible Assets:** Non-physical assets like intellectual property (patents, trademarks), customer relationships, and goodwill.
 
-**Liabilities**
+### **Liabilities**
 
 Liabilities are a financial institution's obligations– money it owes to others. Here are the key types of liabilities in BFSI:
 
@@ -20,6 +18,14 @@ Liabilities are a financial institution's obligations– money it owes to others
 * **Borrowings:**  Funds borrowed by the institution from other banks, the central bank, or through issuing bonds.  Used to fund lending activities or operations.
 * **Insurance Reserves:** (Insurance specific)  Funds set aside to cover potential future claims from policyholders.  
 * **Accounts Payable:**  Money owed to suppliers, vendors, or for other operational expenses. 
+
+CASA stands for Current Account Savings Account in the Banking, Financial Services, and Insurance (BFSI) sector. It refers to the total deposits that a bank has in its current accounts and savings accounts. 
+
+1. **Current Account:** This type of account is typically used by businesses and individuals for frequent transactions. There are usually no restrictions on the number of transactions or withdrawals allowed, but they may not earn interest.
+
+2. **Savings Account:** Savings accounts are designed for individuals to deposit their savings while earning a nominal interest rate. These accounts usually have limitations on the number of transactions allowed per month.
+
+CASA is crucial for banks because it represents low-cost funds that they can use for lending and investment activities. Since savings accounts offer lower interest rates compared to fixed deposits, and current accounts often don't pay any interest, banks can use these funds to lend to borrowers at higher interest rates, thus generating profits. Higher CASA ratios indicate that a larger portion of a bank's deposits comes from current and savings accounts, which is generally preferred as it reduces the cost of funds for the bank. Banks often aim to increase their CASA ratio to improve their profitability and strengthen their balance sheets.
 
 **The Importance of Understanding Assets and Liabilities**
 
@@ -31,6 +37,89 @@ Financial institutions carefully manage their assets and liabilities for several
 * **Regulatory Compliance:**  BFSI institutions are subject to regulations that often dictate limits or requirements for the composition of their balance sheets. 
 
 NPA stands for Non-Performing Asset. In the BFSI domain, particularly banking, it refers to loans or advances that are in default or arrears, meaning the borrower has failed to make their loan payments for a certain period of time.  Here's a breakdown of NPAs:
+
+### Disbursed amount  
+The disbursed amount refers to the total sum of money that has been released or paid out to a borrower by a lender, typically in the context of loans or credit facilities. When a loan is approved, the disbursed amount is the actual money transferred to the borrower's account or paid out to them in another form, such as a cashier's check or direct payment to a vendor.
+
+Examples of disbursed amounts include:
+
+1. **Personal Loans:** If a bank approves a personal loan for $10,000, and the entire amount is transferred to the borrower's account, then the disbursed amount is $10,000.
+
+2. **Mortgages:** When a mortgage loan is approved for the purchase of a house, the disbursed amount is the total loan amount transferred to the seller or their representative, typically through a wire transfer or a cashier's check.
+
+3. **Business Loans:** If a business secures a loan of $50,000 to purchase new equipment, the disbursed amount is the full $50,000 provided to the business for that purpose.
+
+4. **Credit Cards:** When a credit card issuer grants a credit limit to a cardholder, any transactions made using the card constitute disbursed amounts until they are repaid.
+
+5. **Student Loans:** For student loans, the disbursed amount is the portion of the loan that is actually paid out to the educational institution to cover tuition, fees, and other approved expenses.
+
+In summary, the disbursed amount represents the actual funds transferred from the lender to the borrower or the designated recipient as part of a loan or credit agreement.
+
+
+### Outstanding Principal
+
+OSP, or Outstanding Principal, refers to the remaining amount of the original principal balance on a loan that has not yet been repaid. It represents the portion of the loan amount that the borrower still owes to the lender. As loan payments are made over time, the outstanding principal decreases.
+
+Here are some examples of OSP:
+
+1. **Mortgage Loan:** Suppose a borrower takes out a mortgage loan for $200,000 to purchase a house. After making regular monthly payments for several years, the outstanding principal might be $150,000. This means the borrower still owes $150,000 to the lender to fully repay the loan.
+
+2. **Car Loan:** If someone finances the purchase of a car with a $20,000 loan and has been making monthly payments for some time, the outstanding principal would be the remaining balance on the loan. For example, if they have paid off $8,000 of the loan so far, the outstanding principal would be $12,000.
+
+3. **Student Loan:** A student borrows $30,000 in student loans to finance their education. After graduation, they begin making monthly payments. The outstanding principal would be the remaining balance on the loan after each payment is made, reflecting the amount still owed to the lender.
+
+4. **Business Loan:** A company borrows $100,000 to expand its operations. As they make payments on the loan, the outstanding principal decreases. For instance, if they have paid off $30,000 of the loan, the outstanding principal would be $70,000.
+
+In summary, OSP, or Outstanding Principal, is the remaining amount of the original loan balance that the borrower still owes to the lender. It decreases over time as loan payments are made.
+
+DPD, or Days Past Due, is a commonly used metric in the banking and financial sectors to measure the number of days a payment on a loan or credit obligation has been overdue. It helps lenders assess the timeliness of borrower payments and manage credit risk.
+
+Here's how DPD works with some examples:
+
+1. **Example 1: Mortgage Payment**
+   Let's say a borrower has a monthly mortgage payment due on the 1st of each month. If the borrower fails to make the payment by the due date and still hasn't made the payment by the 10th of the month, the DPD for that payment would be 10.
+
+2. **Example 2: Credit Card Payment**
+   A credit card issuer typically sets a due date for monthly payments. If a cardholder misses the due date for their credit card bill by three days, the DPD for that payment would be 3.
+
+3. **Example 3: Loan Payment**
+   Consider a borrower with a car loan that requires monthly payments. If the borrower's payment is due on the 15th of the month and they fail to make the payment until the 20th, the DPD for that payment would be 5.
+
+4. **Example 4: Installment Loan Payment**
+   For installment loans with fixed monthly payments, such as personal loans, if a borrower misses their payment due on the 5th of the month and makes the payment on the 12th, the DPD would be 7.
+
+### Days Past Due
+
+DPD is an important indicator for lenders to monitor because it helps them assess the risk of default by borrowers. Generally, the higher the DPD, the greater the risk of default. Lenders may use DPD information to determine whether to extend additional credit, modify existing credit terms, or take other actions to mitigate risk. Additionally, DPD can affect a borrower's credit score and overall creditworthiness, as late payments can be reported to credit bureaus.
+
+### Portfolio at Risk
+PAR (Portfolio at Risk) is a metric used in the banking and financial sectors to assess the level of risk associated with a loan portfolio. It indicates the proportion of outstanding loan balances that are at risk of default or are already in arrears.
+
+PAR is typically expressed as a percentage and is calculated by dividing the total outstanding loan balances that are past due by the total outstanding loan portfolio. Loans are considered past due if the borrower has failed to make scheduled payments within a specified time frame, usually expressed in days or months.
+
+For example, if a bank has a total loan portfolio of $100 million, and $5 million of that portfolio is past due by 30 days or more, the PAR would be calculated as follows:
+
+PAR = (Total past due loans / Total outstanding loan portfolio) * 100
+    = ($5,000,000 / $100,000,000) * 100
+    = 5%
+
+
+
+This means that 5% of the bank's total loan portfolio is currently at risk of default due to late payments.
+
+Examples of loans that contribute to PAR include:
+
+1. **Consumer Loans:** Such as personal loans, auto loans, and credit card balances that have not been paid according to the agreed-upon terms.
+
+2. **Mortgages:** Home loans where the borrower has missed one or more mortgage payments.
+
+3. **Business Loans:** Loans provided to businesses for various purposes, such as working capital, expansion, or equipment purchases, where the borrower has defaulted on payments.
+
+4. **Microfinance Loans:** Small loans provided to individuals or small businesses in developing countries, where borrowers may face challenges in meeting repayment obligations.
+
+5. **Student Loans:** Educational loans that have not been repaid by borrowers within the specified grace period or after leaving school.
+
+PAR is an important indicator for financial institutions as it helps them assess the credit quality of their loan portfolio and identify potential areas of risk. A high PAR may indicate weaknesses in the lending practices or economic challenges that could lead to increased loan defaults and financial losses. Banks and lenders use this information to implement strategies for managing and mitigating credit risk effectively.
 
 **How a Loan Becomes an NPA**
 

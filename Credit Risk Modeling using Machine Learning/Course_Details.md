@@ -33,3 +33,11 @@ This course dives deep into the application of machine learning techniques for a
     - Implement machine learning algorithms to develop accurate predictive models for credit risk assessment.
 - Evaluation and Interpretation of Credit Risk Models
     - Learn how to evaluate credit risk models and interpret their results to make informed decisions in a financial context.
+
+### Videos
+| Instructor name  | Link |
+|-----------------|-------------------------|
+| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
