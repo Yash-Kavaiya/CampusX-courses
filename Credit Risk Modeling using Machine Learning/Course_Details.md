@@ -1,6 +1,6 @@
 ### Instructor Information
 
-| Instructor name | Instructor LinkedIn profile | Instructor Youtube channel |
+| Instructor name | Instructor LinkedIn profile | Instructor Github |
 |-----------------|-----------------------------|--------------------------|
 | Rohan Azad | [LinkedIn](https://www.linkedin.com/in/rohanazad/) | [Github](https://github.com/rohanazad) |
 
@@ -38,6 +38,6 @@ This course dives deep into the application of machine learning techniques for a
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
-| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 2 - EDA and Feature Engineering| [Session 2](https://youtu.be/fsR2mcpjvfQ?si=2ELQmMJXxb9bZJCM) |
 | Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
 | Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
