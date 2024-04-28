@@ -36,8 +36,8 @@ This course delves into the exciting world of artificial intelligence by leverag
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
-| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
-| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
-| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 2 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 3 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 4 - Hugging Face Models and LLM Evaluation Metrics | [Link](https://youtu.be/SnK-cpLFs9s?si=CXXCG1qXInt7w4d8) |
 | Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
 | Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
