@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EPS Prediction by Machine Learning</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f8f9fa; /* light gray background */
+    }
+    .container {
+      margin-top: 50px;
+      background-color: white; /* white background for the form */
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* subtle shadow effect */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">EPS Prediction by Machine Learning</h1>
+    
+    <form action="/predict" method="POST">
+  
+      <div class="form-group">
+        <label for="ROCE (%)">ROCE (%):</label>
+        <input type="text" class="form-control" id="ROCE (%)" name="ROCE (%)" required placeholder="Enter ROCE (%)" value="{{ v1 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="CASA (%)">CASA (%):</label>
+        <input type="text" class="form-control" id="CASA (%)" name="CASA (%)" required placeholder="Enter CASA (%)" value="{{ v2 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Return on Equity / Networth (%)">Return on Equity / Networth (%):</label>
+        <input type="text" class="form-control" id="Return on Equity / Networth (%)" name="Return on Equity / Networth (%)" required placeholder="Enter Return on Equity / Networth (%)" value="{{ v3 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Non-Interest Income/Total Assets (%)">Non-Interest Income/Total Assets (%):</label>
+        <input type="text" class="form-control" id="Non-Interest Income/Total Assets (%)" name="Non-Interest Income/Total Assets (%)" required placeholder="Enter Non-Interest Income/Total Assets (%)" value="{{ v4 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Operating Profit/Total Assets (%)">Operating Profit/Total Assets (%):</label>
+        <input type="text" class="form-control" id="Operating Profit/Total Assets (%)" name="Operating Profit/Total Assets (%)" required placeholder="Enter Operating Profit/Total Assets (%)" value="{{ v5 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Operating Expenses/Total Assets (%)">Operating Expenses/Total Assets (%):</label>
+        <input type="text" class="form-control" id="Operating Expenses/Total Assets (%)" name="Operating Expenses/Total Assets (%)" required placeholder="Enter Operating Expenses/Total Assets (%)" value="{{ v6 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Interest Expenses/Total Assets (%)">Interest Expenses/Total Assets (%):</label>
+        <input type="text" class="form-control" id="Interest Expenses/Total Assets (%)" name="Interest Expenses/Total Assets (%)" required placeholder="Enter Interest Expenses/Total Assets (%)" value="{{ v7 }}">
+      </div>
+  
+      <div class="form-group">
+        <label for="Face_value">Face value:</label>
+        <input type="text" class="form-control" id="Face_value" name="Face_value" required placeholder="Enter Face value" value="{{ v8 }}">
+      </div>
+  
+      <button type="submit" class="btn btn-primary">Predict using ML</button>
+    </form>
+
+    <div class="text-center mt-3">
+      <p style="font-size: 1.2em; font-weight: bold;">EPS Predicted: <span id="result">{{ result }}</span></p>
+    </div>
+  </div>
+</body>
+</html>
