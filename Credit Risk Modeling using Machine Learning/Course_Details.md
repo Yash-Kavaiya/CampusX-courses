@@ -39,5 +39,5 @@ This course dives deep into the application of machine learning techniques for a
 |-----------------|-------------------------|
 | Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
 | Session 2 - EDA and Feature Engineering| [Session 2](https://youtu.be/fsR2mcpjvfQ?si=2ELQmMJXxb9bZJCM) |
-| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 3 - Model Selection | [Session 3](https://youtu.be/5Za9nh5h2Kg?si=HGdC6WhMGTXcwCQl) |
 | Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
