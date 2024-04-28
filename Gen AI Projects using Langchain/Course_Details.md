@@ -30,3 +30,14 @@ This course delves into the exciting world of artificial intelligence by leverag
     - Master the art of programming with Langchain
 - Innovative project creation
     - Unlock your creativity to build unique AI projects
+
+
+### Videos
+| Instructor name  | Link |
+|-----------------|-------------------------|
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
