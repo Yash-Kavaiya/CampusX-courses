@@ -2,7 +2,7 @@
 
 | Instructor name | Instructor LinkedIn profile | Instructor GitHub profile | Instructor Medium blog |
 |-----------------|-----------------------------|--------------------------|------------------------|
-| Sameer Singh | [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/Aman78695) | [Medium](https://medium.com/@amanatulla1606) |
+| Sameer Singh | [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/Aman78695) | [Medium]() |
 
 ### Course Link
 
@@ -33,3 +33,7 @@
 | Session 2 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
 | Session 3 - Introduction to Gen AI | [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
 | Session 4 - Hugging Face Models and LLM Evaluation Metrics | [Link](https://youtu.be/SnK-cpLFs9s?si=CXXCG1qXInt7w4d8) |
+
+| Course Title | Description | Link |
+|---|---|---|
+| RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |

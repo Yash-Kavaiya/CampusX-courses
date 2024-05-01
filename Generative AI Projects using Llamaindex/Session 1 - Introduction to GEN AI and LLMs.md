@@ -54,7 +54,7 @@ Open-source and paid LLMs each have their own set of advantages and consideratio
 
 Proper selection and tuning of prompts, context windows, and hyperparameters are crucial for effectively utilizing the capabilities of LLMs and optimizing their performance for specific tasks and scenarios.
 
-## LLAMAINDEX
+## llamaindex
 
 LLAMA Index is an open-source library developed by Anthropic that helps in building data-aware applications using Large Language Models (LLMs). It provides a way to structure and interact with external data sources, enabling LLMs to generate responses based on both their pre-trained knowledge and the provided data.
 
@@ -75,6 +75,8 @@ Here are some key details about LLAMA Index:
 7. **Applications**: LLAMA Index can be used for a wide range of applications, including question-answering systems, document summarization, knowledge base construction, and data-aware chatbots or virtual assistants.
 
 By combining the power of LLMs with structured external data sources, LLAMA Index enables the development of more data-aware and context-specific language applications. It abstracts away the complexities of data handling and retrieval, allowing developers to focus on building higher-level applications that leverage both pre-trained language models and relevant external data.
+
+## Retrieval-Augmented Generation
 
 RAG (Retrieval-Augmented Generation) is an approach to enhancing language models with external knowledge retrieval capabilities. It was introduced by researchers at Microsoft and allows language models to generate responses that are informed not only by their pre-trained knowledge but also by relevant information retrieved from external sources.
 
@@ -105,3 +107,7 @@ Here's a detailed explanation of how RAG works:
    - It can also be used for other tasks that require incorporating external knowledge, such as dialog systems, summarization, or knowledge-grounded generation.
 
 RAG addresses a key limitation of traditional language models, which are often limited by the knowledge contained in their training data. By augmenting the model with external knowledge retrieval capabilities, RAG allows for more informed and knowledge-grounded generations, making language models more versatile and capable of handling a wider range of tasks.
+
+| Course Title | Description | Link |
+|---|---|---|
+| RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
