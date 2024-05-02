@@ -37,7 +37,7 @@ This course dives deep into the application of machine learning techniques for a
 ### Videos
 | Instructor name  | Link |
 |-----------------|-------------------------|
-| Session 1 - Business Overview of the Project| [Session 1](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
-| Session 2 - EDA and Feature Engineering| [Session 2](https://youtu.be/fsR2mcpjvfQ?si=2ELQmMJXxb9bZJCM) |
-| Session 3 - Model Selection | [Session 3](https://youtu.be/5Za9nh5h2Kg?si=HGdC6WhMGTXcwCQl) |
-| Session 4 - Model Serving and Deployment| [Session 4](https://youtu.be/igl82aE11QY?si=ZHm42TC2L3yBWJcM) |
+| Session 1 - Business Overview of the Project|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/HmfPnpeStmA?si=gHiGfayPQTztwTOV) |
+| Session 2 - EDA and Feature Engineering|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/5Za9nh5h2Kg?si=HGdC6WhMGTXcwCQl) |
+| Session 3 - Model Selection |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/5Za9nh5h2Kg?si=HGdC6WhMGTXcwCQl) |
+| Session 4 - Model Serving and Deployment|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/igl82aE11QY?si=ZHm42TC2L3yBWJcM) |
