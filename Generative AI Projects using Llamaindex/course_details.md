@@ -34,7 +34,7 @@ This course will teach you how to create cutting-edge generative AI projects usi
 ### Videos
 | Instructor name  | Link |
 |-----------------|-------------------------|
-| Session 1 - Introduction to GEN AI and LLMs |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) [Link](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR) |
+| Session 1 - Introduction to GEN AI and LLMs |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/bnV1eY08xKc?si=ilBgRlvIwJX9RSnR)|
 | Session 2 - Introduction to Llama Index |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/1ZujNCYtNAw?si=4X6a3H9eDU0aqyd2)|
 
 | Course Title | Description | Link |
