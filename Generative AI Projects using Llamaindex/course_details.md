@@ -1,8 +1,8 @@
 ### Instructor Information
 
-| Instructor name | Instructor LinkedIn profile | Instructor GitHub profile | Instructor Medium blog |
-|-----------------|-----------------------------|--------------------------|------------------------|
-| Sameer Singh | [LinkedIn](https://www.linkedin.com/in/sameer-singh-9ab26021a/) | [GitHub](https://github.com/) | [Medium]() |
+| Instructor name | Instructor LinkedIn profile | Instructor GitHub profile | 
+|-----------------|-----------------------------|--------------------------|
+| Sameer Singh | [LinkedIn](https://www.linkedin.com/in/sameer-singh-9ab26021a/) | [GitHub](https://github.com/) |
 
 ### Course Link
 
