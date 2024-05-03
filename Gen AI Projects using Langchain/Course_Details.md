@@ -38,6 +38,6 @@ This course delves into the exciting world of artificial intelligence by leverag
 | Session 1 - Introduction to Gen AI |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/bnV1eY08xKc?si=6QvzmvrOgNktjwuq)|
 | Session 2 - Transformer Architecture | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/ndil_QVTLKE?si=yzklhrFMRAc_MuHi) |
 | Session 3 - Hugging Face Hands On | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/NkTES7_54Gw?si=Wzap-dh-ZGoZKi7i) |
-| Session 4 - Hugging Face Models and LLM Evaluation Metrics | [![YouTube](https://youtu.be/SnK-cpLFs9s?si=uUeAriLBx3CRDVOz) |
+| Session 4 - Hugging Face Models and LLM Evaluation Metrics | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/SnK-cpLFs9s?si=uUeAriLBx3CRDVOz)|
 | Session 5 - Training Fine Tuning Peft, QLoRA, LLAMa 3 | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/80rdMKWrV7I?si=wyYfQpcdYj5aQBT0)|
 | Session 6 - LangChain Hands On | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/ssh3iTVa4Tw?si=mkjj3j_0gZXPC-oM) |
