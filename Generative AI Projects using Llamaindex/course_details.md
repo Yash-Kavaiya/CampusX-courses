@@ -38,6 +38,9 @@ This course will teach you how to create cutting-edge generative AI projects usi
 | Session 2 - Introduction to Llama Index |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/1ZujNCYtNAw?si=4X6a3H9eDU0aqyd2)|
 | Session 3 GENAI using LlamaIndex |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/Koqo_MfLNGY?si=PEECUGxx0BcstYOz)|
 
+
+### Code
+|https://github.com/isameersingh/genai_using_llamaIndex|
 | Course Title | Description | Link |
 |---|---|---|
 | RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
