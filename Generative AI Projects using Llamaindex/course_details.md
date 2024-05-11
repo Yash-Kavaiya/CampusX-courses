@@ -36,7 +36,7 @@ This course will teach you how to create cutting-edge generative AI projects usi
 |-----------------|-------------------------|
 | Session 1 - Introduction to Gen AI and LLMs |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/R0SAK2JTJfE?si=YmciEmOrT1cQtmmg)|
 | Session 2 - Introduction to Llama Index |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/1ZujNCYtNAw?si=4X6a3H9eDU0aqyd2)|
-| Session 3 - Gen Ai using LlamaIndex |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/Koqo_MfLNGY?si=PEECUGxx0BcstYOz)|
+| Session 3 - Gen AI using LlamaIndex |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/Koqo_MfLNGY?si=PEECUGxx0BcstYOz)|
 | Session 4 - Chat with your SQL Database |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/6P7mGaees30?si=AYVJTdX1bYS93Gfp)|
 | Session 5 - RAG using Llama Index |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/D53GCl4FVvc?si=8Z8benFZQg3IGduT)|
 
@@ -48,7 +48,7 @@ This course will teach you how to create cutting-edge generative AI projects usi
 |---|
 | https://github.com/isameersingh/genai_using_llamaIndex |
 
-
+### RAG by LangChain
  
 | Course Title | Description | Link |
 |---|---|---|
