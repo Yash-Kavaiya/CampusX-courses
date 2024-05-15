@@ -34,5 +34,6 @@ This course covers the implementation of electronic Know Your Customer (E-KYC) p
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - Introduction to Computer Vision |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/LN2qHdok43E?si=qRMFY3-yVj4qguiF)|
+| Session 2 - Introduction to CV Continued... |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/UGD13gRVXUM?si=NF0tSsEbp1kPPgwC)|
 
 
