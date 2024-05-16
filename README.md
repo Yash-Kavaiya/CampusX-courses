@@ -14,6 +14,7 @@ Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW8
 8. **Advanced Deep Learning with PyTorch**
 9. **Credit Risk Modeling Techniques**
 10. **Leveraging LlamaIndex for Generative AI Tasks**
+11. **Object Detection using Deep Learning**
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -27,6 +28,7 @@ Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW8
 | Building a Time Series Forecasting Project   | Guide through developing a model to forecast future events based on historical data, exploring both traditional statistical techniques and modern machine learning techniques, with hands-on experience in manipulating time series data, building and evaluating models.                                                                                                 | Link Placeholder |
 | Gen AI Projects using Llamaindex             | Explore generating AI projects using Llamaindex, understanding its functionalities and how to use it for AI project generation, covering basics to advanced features.                                                                                                                                                                                                   | Link Placeholder |
 | End to End ML Project using AWS Sagemaker    | Guide through developing a machine learning project from scratch using AWS Sagemaker, covering data preprocessing, model development, deployment, and monitoring, to leverage its full capabilities for efficient and effective project development.                                                                                                                     | Link Placeholder |
+| Object Detection using Deep Learning   |                                                                                                                 | Link Placeholder |
 
 **Important Considerations** 
 
