@@ -1,9 +1,9 @@
 ### Instructor Information
 
-| Instructor name | Instructor LinkedIn profile | Youtube| 
-|-----------------|-----------------------------|-----|
-| Mokarbeen Ansari | [LinkedIn](https://www.linkedin.com/in/mokarbeenansari) | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/MokarbeenAnsari) |
-### Course Link
+| Instructor name | Instructor LinkedIn profile | Youtube| Github |
+|-----------------|-----------------------------|-----|---|
+| Mokarbeen Ansari | [LinkedIn](https://www.linkedin.com/in/mokarbeenansari) | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/MokarbeenAnsari) | https://github.com/MokarbeenAnsari | 
+### Course Link 
 
 | Course Link | Language |
 |-------------|----------|
