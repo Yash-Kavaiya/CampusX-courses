@@ -1,6 +1,6 @@
 # Campusx-10-courses
 
-Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW883YDfahqvcuzMx96ygWJM/edit#gid=0
+Class Schedule :-https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vVHBiWysEwkk70YW6gI2tA/edit
 
 **Potential Course Titles**
 
@@ -15,7 +15,8 @@ Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW8
 9. **Credit Risk Modeling Techniques**
 10. **Leveraging LlamaIndex for Generative AI Tasks**
 11. **Object Detection using Deep Learning**
-12. **Retrieval Augmented Generation (RAG)**
+12. **Retrival Augmented Generation (RAG)**
+13. **Generative AI for Vision**
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -31,6 +32,7 @@ Class Schedule :- https://docs.google.com/spreadsheets/d/1MX9GWa_2Bees_QsWRR-JW8
 | End to End ML Project using AWS Sagemaker    | Guide through developing a machine learning project from scratch using AWS Sagemaker, covering data preprocessing, model development, deployment, and monitoring, to leverage its full capabilities for efficient and effective project development.                                                                                                                     | Link Placeholder |
 | Object Detection using Deep Learning   |                                                                                                                 | Link Placeholder |
 |Retrieval Augmented Generation (RAG)| | |
+|Generative AI for Vision|||
 
 **Important Considerations** 
 
