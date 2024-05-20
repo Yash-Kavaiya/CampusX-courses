@@ -2,7 +2,6 @@
 
 Representation of Images
 
-# Why study images?
 # Why Study Images?
 
 Studying images and understanding image processing is crucial for several reasons, ranging from technological advancements to everyday applications. Here are some key reasons to delve into the study of images:
