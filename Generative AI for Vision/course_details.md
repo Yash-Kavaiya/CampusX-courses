@@ -33,3 +33,4 @@ This course dives deep into Generative AI techniques specifically focusing on St
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - introduction to GEN AI for Vision |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/3Bs8GxA0IE4?si=6cHM4WuDuWyuVS0X)|
+| Session 2 - Representation of Images |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/jdgKsFuX76w?si=69-lZFuAjDx_v0qX)|
