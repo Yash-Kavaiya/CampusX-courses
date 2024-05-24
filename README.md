@@ -33,6 +33,7 @@ Class Schedule :-https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vV
 | Object Detection using Deep Learning   |                                                                                                                 | Link Placeholder |
 |Retrieval Augmented Generation (RAG)| | |
 |Generative AI for Vision|||
+|Building AI Agents|Learn how to create advanced AI agents using cutting-edge tools and technologies such as CrewAI, AutoGen, Langgraph, and AutoGPT. Dive into the world of artificial intelligence and develop intelligent agents that can perform complex tasks and improve automation processes.| |
 
 **Important Considerations** 
 
