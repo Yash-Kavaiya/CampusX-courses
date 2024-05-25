@@ -1,6 +1,7 @@
 # Campusx-10-courses
 
-Class Schedule :-https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vVHBiWysEwkk70YW6gI2tA/edit
+Class Schedule 
+[![Class Schedule ](https://img.shields.io/badge/Class%20Schedule-4285F4?logo=googledocs&logoColor=fff&style=for-the-badge)](https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vVHBiWysEwkk70YW6gI2tA/edit)
 
 **Potential Course Titles**
 
@@ -20,7 +21,7 @@ Class Schedule :-https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vV
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | Link Placeholder |
+| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | [Go to course](./E-KYC using Computer Vision/README.md) |
 | Gen AI Projects using Langchain              | This course guides you through generating AI projects using Langchain, covering everything from basics to project generation intricacies.                                                                                                                                                                                                                               | Link Placeholder |
 | Credit Risk Modeling using ML                | Learn to use Machine Learning techniques to build models for accurately determining credit risk, starting from fundamentals to developing predictive models with real-world datasets.                                                                                                                                                                                   | Link Placeholder |
 | Deep Learning Projects using PyTorch         | Dive into building practical deep learning applications like a machine translation system and a next word predictor using PyTorch, gaining hands-on experience and understanding core concepts.                                                                                                                                                                         | Link Placeholder |
