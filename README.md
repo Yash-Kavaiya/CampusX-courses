@@ -18,6 +18,9 @@
 12. **<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
 13.  **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
 
+   
+
+
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | **<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>** |
