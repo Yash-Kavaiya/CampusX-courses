@@ -1,6 +1,5 @@
 # Campusx-10-courses
 
-Class Schedule 
 [![Class Schedule ](https://img.shields.io/badge/Class%20Schedule-4285F4?logo=googledocs&logoColor=fff&style=for-the-badge)](https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vVHBiWysEwkk70YW6gI2tA/edit)
 
 **Potential Course Titles**
@@ -17,11 +16,11 @@ Class Schedule
 10. **Leveraging LlamaIndex for Generative AI Tasks**
 11. **Object Detection using Deep Learning**
 12. **Retrival Augmented Generation (RAG)**
-13. **Generative AI for Vision**
+13.  **<li><a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | [Go to course](./E-KYC using Computer Vision/README.md) |
+| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | [Go To Folder]("E-KYC using Computer Vision") |
 | Gen AI Projects using Langchain              | This course guides you through generating AI projects using Langchain, covering everything from basics to project generation intricacies.                                                                                                                                                                                                                               | Link Placeholder |
 | Credit Risk Modeling using ML                | Learn to use Machine Learning techniques to build models for accurately determining credit risk, starting from fundamentals to developing predictive models with real-world datasets.                                                                                                                                                                                   | Link Placeholder |
 | Deep Learning Projects using PyTorch         | Dive into building practical deep learning applications like a machine translation system and a next word predictor using PyTorch, gaining hands-on experience and understanding core concepts.                                                                                                                                                                         | Link Placeholder |
