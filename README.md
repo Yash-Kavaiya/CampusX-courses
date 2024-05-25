@@ -4,23 +4,23 @@
 
 **Potential Course Titles**
 
-1. **Introduction to Generative AI with LangChain**
-2. **End-to-End Machine Learning Projects with AWS Sagemaker**
-3. **Time Series Forecasting Methods** 
-4. **e-KYC Solutions Using Computer Vision**
-5. **SQL for Data Analysis and Problem Solving**
-6. **Emotion Detection with Convolutional Neural Networks (CNNs)**
-7. **Building End-to-End ML Systems with MLOps**
-8. **Advanced Deep Learning with PyTorch**
-9. **Credit Risk Modeling Techniques**
-10. **Leveraging LlamaIndex for Generative AI Tasks**
-11. **Object Detection using Deep Learning**
-12. **Retrival Augmented Generation (RAG)**
-13.  **<li><a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
+1. **<a href="Gen AI Projects using Langchain/README.md">Introduction to Generative AI with LangChain</a>**
+2. **<a href="Flight Price Prediction using AWS Sagemaker/README.md">End-to-End Machine Learning Projects with AWS Sagemaker</a>**
+3. **<a href="#">Time Series Forecasting Methods</a>** 
+4. **<a href="E-KYC using Computer Vision/README.md">e-KYC Solutions Using Computer Vision</a>**
+5. **<a href="5 SQL Case Studies">SQL for Data Analysis and Problem Solving</a>**
+6. **<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>**
+7. **<a href="End-to-End ML Project using MLOps/README.md">Building End-to-End ML Systems with MLOps</a>**
+8. **<a href="#">Advanced Deep Learning with PyTorch</a>**
+9. **<a href="Credit Risk Modeling using Machine Learning/README.md">Credit Risk Modeling Techniques</a>**
+10. **<a href="Generative AI Projects using Llamaindex/README.md">Leveraging LlamaIndex for Generative AI Tasks</a>**
+11. **<a href="Object Detection using Deep Learning/README.md">Object Detection using Deep Learning</a>**
+12. **<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
+13.  **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | [Go To Folder]("E-KYC using Computer Vision") |
+| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | **<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>** |
 | Gen AI Projects using Langchain              | This course guides you through generating AI projects using Langchain, covering everything from basics to project generation intricacies.                                                                                                                                                                                                                               | Link Placeholder |
 | Credit Risk Modeling using ML                | Learn to use Machine Learning techniques to build models for accurately determining credit risk, starting from fundamentals to developing predictive models with real-world datasets.                                                                                                                                                                                   | Link Placeholder |
 | Deep Learning Projects using PyTorch         | Dive into building practical deep learning applications like a machine translation system and a next word predictor using PyTorch, gaining hands-on experience and understanding core concepts.                                                                                                                                                                         | Link Placeholder |
