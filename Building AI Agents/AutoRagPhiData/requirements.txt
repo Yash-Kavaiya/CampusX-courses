@@ -1,0 +1,10 @@
+phidata 
+nest_asyncio 
+beautifulsoup4 
+openai 
+duckduckgo-search 
+sqlalchemy 
+pgvector 
+psycopg 
+pypdf 
+ollama
