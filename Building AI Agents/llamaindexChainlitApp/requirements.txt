@@ -1,0 +1,5 @@
+llama-index
+llama-index-llms-ollama
+llama-index-core 
+llama-index-readers-file 
+llama-index-embeddings-huggingface
