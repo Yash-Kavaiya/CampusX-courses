@@ -58,3 +58,13 @@
 **Disclaimer:**
 
 This repository is intended for educational purposes only. All credit for the content and materials within this repository goes to CampusX. It is meant to facilitate learning and exploration within the specified subject matter. Users are encouraged to abide by ethical guidelines and use the information responsibly. The creators and contributors of this repository are not liable for any misuse or misinterpretation of the content here in.
+
+
+
+## Social Media
+
+| Platform | Link |
+|----------|------|
+| ![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png) | [CampusX YouTube](https://www.youtube.com/@campusx-official) |
+| ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [CampusX LinkedIn](https://www.linkedin.com/company/campusx-official/) |
+| ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) | [CampusX Instagram](https://www.instagram.com/campusx.official/) |
