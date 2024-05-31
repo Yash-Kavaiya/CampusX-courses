@@ -4,21 +4,21 @@
 
 **Potential Course Titles**
 
-1. **<a href="Gen AI Projects using Langchain/README.md">Introduction to Generative AI with LangChain</a>**
-2. **<a href="Flight Price Prediction using AWS Sagemaker/README.md">End-to-End Machine Learning Projects with AWS Sagemaker</a>**
-3. **<a href="#">Time Series Forecasting Methods</a>** 
-4. **<a href="E-KYC using Computer Vision/README.md">e-KYC Solutions Using Computer Vision</a>**
-5. **<a href="5 SQL Case Studies">SQL for Data Analysis and Problem Solving</a>**
-6. **<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>**
-7. **<a href="End-to-End ML Project using MLOps/README.md">Building End-to-End ML Systems with MLOps</a>**
-8. **<a href="#">Advanced Deep Learning with PyTorch</a>**
-9. **<a href="Credit Risk Modeling using Machine Learning/README.md">Credit Risk Modeling Techniques</a>**
-10. **<a href="Generative AI Projects using Llamaindex/README.md">Leveraging LlamaIndex for Generative AI Tasks</a>**
-11. **<a href="Object Detection using Deep Learning/README.md">Object Detection using Deep Learning</a>**
-12. **<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
-13.  **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
-14. 
-15. 
+1. [x] **<a href="Gen AI Projects using Langchain/README.md">Introduction to Generative AI with LangChain</a>**
+2. [] **<a href="Flight Price Prediction using AWS Sagemaker/README.md">End-to-End Machine Learning Projects with AWS Sagemaker</a>**
+3. [] **<a href="#">Time Series Forecasting Methods</a>** 
+4. [] **<a href="E-KYC using Computer Vision/README.md">e-KYC Solutions Using Computer Vision</a>**
+5. []**<a href="5 SQL Case Studies">SQL for Data Analysis and Problem Solving</a>**
+6. []**<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>**
+7. []**<a href="End-to-End ML Project using MLOps/README.md">Building End-to-End ML Systems with MLOps</a>**
+8. []**<a href="#">Advanced Deep Learning with PyTorch</a>**
+9. [x]**<a href="Credit Risk Modeling using Machine Learning/README.md">Credit Risk Modeling Techniques</a>**
+10. [x]**<a href="Generative AI Projects using Llamaindex/README.md">Leveraging LlamaIndex for Generative AI Tasks</a>**
+11. []**<a href="Object Detection using Deep Learning/README.md">Object Detection using Deep Learning</a>**
+12. []**<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
+13. [] **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
+14. []
+15. []
 16.**<a href="https://github.com/campusx-official/flask-course">Flask for Machine Learning</a></li>**
    
 

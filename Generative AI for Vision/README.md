@@ -36,6 +36,7 @@ This course dives deep into Generative AI techniques specifically focusing on St
 | Session 2 - Representation of Images |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/jdgKsFuX76w?si=69-lZFuAjDx_v0qX)|
 | Session 3 - Basics of Diffusion Models |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/2pZOJhWnGMY?si=YfV9wZ7HJBxe_ATE)|
 | Session 4 - Prompt Engineering for Images |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/snT9n4jzxgQ?si=taPieEFN5eO-0z2q)|
+| Session 5 - Project building and deployment |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/lZCTiWrw5l8?si=MTW_uq4uQ70c6W-2)|
 
 
 | Website               | Description                                                                                       | Free/Paid                    | Link                                              |
