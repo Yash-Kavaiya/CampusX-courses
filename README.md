@@ -17,9 +17,10 @@
 11. **<a href="Object Detection using Deep Learning/README.md">Object Detection using Deep Learning</a>**
 12. **<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
 13.  **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a></li>**
-
+14. 
+15. 
+16.**<a href="https://github.com/campusx-official/flask-course">Flask for Machine Learning</a></li>**
    
-
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -37,6 +38,7 @@
 |Retrieval Augmented Generation (RAG)| | |
 |Generative AI for Vision|||
 |Building AI Agents|Learn how to create advanced AI agents using cutting-edge tools and technologies such as CrewAI, AutoGen, Langgraph, and AutoGPT. Dive into the world of artificial intelligence and develop intelligent agents that can perform complex tasks and improve automation processes.| |
+|Flask for Machine Learning|||
 
 **Important Considerations** 
 
