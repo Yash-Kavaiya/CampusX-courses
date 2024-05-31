@@ -2,4 +2,6 @@
 
 Demo :- https://huggingface.co/spaces/MokarbeenAnsari/campusx
 
+Github Code:- https://github.com/MokarbeenAnsari/calories-calculator
+
 
