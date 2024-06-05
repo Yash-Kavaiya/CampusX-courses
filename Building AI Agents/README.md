@@ -39,4 +39,4 @@ Learn how to create advanced AI agents using cutting-edge tools and technologies
 | Session 2 - Working with Agent Frameworks | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/X74sCWjEFCo?si=BHbErHpzMnsHgGcJ) |
 | Session 3 - Agentic RAG with Llama Index | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/sQrDm6Kj5iM?si=RBwZ1wB132jTXS65) |
 | Session 4 - Crew AI and Transformer Agents | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/YgIVPctRyfE?si=NtMdGJhfn-X0PTuJ) |
-
+|Session 5 - AI Agent with Autogen | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/tx2VMzgmt0o?si=NmkheMWWHjv1VDtb)
