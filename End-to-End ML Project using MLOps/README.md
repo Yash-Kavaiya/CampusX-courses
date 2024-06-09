@@ -38,3 +38,4 @@ This comprehensive course teaches you how to develop a machine learning project 
 | Session 1 - Introduction to MLOPs and Version Control |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/eNIxEC4D0v4?si=7C5ECGjerdF3mIGD)|
 | Session 2 - Data and Model Versioning through DVC | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/FEgTX1VxpjA?si=jlqdSh52dnmQulR5) |
 | Session 3 - Data to Model Pipeline through DVC | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/RZtUj_AnA4w?si=u0nARIKlt4RGnRXB) |
+| Session 4 - Data to Model Pipeline through DVC Contd  |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/Ul-oHIkeU4s?si=lGPca2rXpqCOGajF)
