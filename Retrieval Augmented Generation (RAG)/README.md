@@ -28,3 +28,10 @@ This course delves into the intricacies of the Retrieval Augmented Generation (R
     - Dive deep into real-world case studies to understand the practical applications and benefits of RAG Architecture.
 - Optimizing Information Retrieval and Generation
     - Learn how to leverage RAG Architecture to enhance both information retrieval and generation processes effectively.
+
+
+
+### Videos
+| Instructor name  | Link |
+|-----------------|-------------------------|
+| Session 1 - Introduction to RAG |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/vBP49yhZPTM?si=iGWg1tczXeDsJazh)|
