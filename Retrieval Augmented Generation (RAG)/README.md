@@ -35,3 +35,5 @@ This course delves into the intricacies of the Retrieval Augmented Generation (R
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - Introduction to RAG |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/vBP49yhZPTM?si=iGWg1tczXeDsJazh)|
+| Session 2 - Knowing RAGS |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/Q6shHtNFiuQ?si=Nlrnzu5K3n-GPHA_)|
+
