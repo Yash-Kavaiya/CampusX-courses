@@ -41,3 +41,9 @@ This course delves into the exciting world of artificial intelligence by leverag
 | Session 4 - Hugging Face Models and LLM Evaluation Metrics | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/SnK-cpLFs9s?si=uUeAriLBx3CRDVOz)|
 | Session 5 - Training Fine Tuning Peft, QLoRA, LLAMa 3 | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/80rdMKWrV7I?si=wyYfQpcdYj5aQBT0)|
 | Session 6 - LangChain Hands On | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/ssh3iTVa4Tw?si=mkjj3j_0gZXPC-oM) |
+
+
+### Useful websites
+https://huggingface.co/spaces/multimodalart/face-to-all
+
+
