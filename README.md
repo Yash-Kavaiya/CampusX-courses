@@ -20,7 +20,7 @@
 14. [ ]
 15. [ ]
 16. [ ] **<a href="https://github.com/campusx-official/flask-course">Flask for Machine Learning</a></li>**
-   
+17. [ ] **<a href="/">Data Analysis using MS Excel</a></li>**    
 
 | Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -39,6 +39,7 @@
 |Generative AI for Vision|This course dives deep into Generative AI techniques specifically focusing on Stable Diffusion, Diffusion models, GANs, Variational Autoencoders, and leveraging hugging face models for cutting-edge projects. Gain hands-on experience in implementing advanced AI models for vision applications |<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a>|
 |Building AI Agents|Learn how to create advanced AI agents using cutting-edge tools and technologies such as CrewAI, AutoGen, Langgraph, and AutoGPT. Dive into the world of artificial intelligence and develop intelligent agents that can perform complex tasks and improve automation processes.| |
 |Flask for Machine Learning|||
+|Data Analysis using MS Excel|||
 
 **Important Considerations** 
 
