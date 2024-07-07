@@ -2,7 +2,7 @@
 
 | Instructor name | Instructor LinkedIn profile | Instructor GitHub profile | Instructor Medium blog |
 |-----------------|-----------------------------|--------------------------|------------------------|
-| - | [LinkedIn](https://www.linkedin.com/in/md-amanatullah12345/) | [GitHub](https://github.com/Aman78695) | [Medium](https://medium.com/@amanatulla1606) |
+| Name | [LinkedIn](https://www.linkedin.com/in/yashkavaiya/) | [GitHub](https://github.com/Aman78695) | [Medium](https://medium.com/@amanatulla1606) |
 
 ### Course Link
 
@@ -42,7 +42,9 @@ This course covers the fundamental concepts of data analysis using Microsoft Exc
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Session 1 - Introduction to MS Excel |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/WKIDkAeL7AE?si=iqZEvsYdwFobHTsq)|
-| Session 2 - Transformer Architecture | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/ndil_QVTLKE?si=yzklhrFMRAc_MuHi) |
+| Session 2 - Case study - Boston Crime Analytics using Excel | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/G1lnAB75eOE?si=2v4AQ2ybZ9gFXXQa) |
+| Session 2 - Case study - Boston Crime Analytics using Excel | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/G1lnAB75eOE?si=2v4AQ2ybZ9gFXXQa) |
+| Session 2 - Case study - Boston Crime Analytics using Excel | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/G1lnAB75eOE?si=2v4AQ2ybZ9gFXXQa) |
 
 
 ### Useful websites
