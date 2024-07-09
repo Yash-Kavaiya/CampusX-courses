@@ -62,6 +62,10 @@ This course covers in-depth concepts and practical implementation of MLFlow for 
 3. Registering your best model and its version tracking.
 4. Model deployment overview through Docker in MLFlow
 
+
+### Code
+Code :- https://github.com/Himanshu-1703/MLFlow-Demo
+
 ### Videos
 | Instructor name  | Link |
 |-----------------|-------------------------|
