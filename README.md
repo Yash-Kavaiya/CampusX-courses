@@ -1,68 +1,74 @@
-# Campusx-10-courses
 
-[![Class Schedule ](https://img.shields.io/badge/Class%20Schedule-4285F4?logo=googledocs&logoColor=fff&style=for-the-badge)](https://docs.google.com/spreadsheets/d/1axiqFB2wR6n2vWHiHH5u8vVHBiWysEwkk70YW6gI2tA/edit)
+# CampusX - 10 Course Collection
 
-**Potential Course Titles**
+Welcome to **CampusX's** curated collection of comprehensive courses designed to help you master key technologies and concepts in AI, ML, Data Science, and more. 
 
-1. [x] **<a href="Gen AI Projects using Langchain/README.md">Introduction to Generative AI with LangChain</a>**
-2. [ ] **<a href="Flight Price Prediction using AWS Sagemaker/README.md">End-to-End Machine Learning Projects with AWS Sagemaker</a>**
-3. [ ] **<a href="#">Time Series Forecasting Methods</a>** 
-4. [ ]  **<a href="E-KYC using Computer Vision/README.md">e-KYC Solutions Using Computer Vision</a>**
-5. [ ] **<a href="5 SQL Case Studies">SQL for Data Analysis and Problem Solving</a>**
-6. [ ] **<a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a>**
-7. [ ] **<a href="End-to-End ML Project using MLOps/README.md">Building End-to-End ML Systems with MLOps</a>**
-8. [ ] **<a href="#">Advanced Deep Learning with PyTorch</a>**
-9. [x] **<a href="Credit Risk Modeling using Machine Learning/README.md">Credit Risk Modeling Techniques</a>**
-10. [x] **<a href="Generative AI Projects using Llamaindex/README.md">Leveraging LlamaIndex for Generative AI Tasks</a>**
-11. [ ] **<a href="Object Detection using Deep Learning/README.md">Object Detection using Deep Learning</a>**
-12. [ ] **<a href="Retrieval Augmented Generation (RAG)/README.md">Retrival Augmented Generation (RAG)</a>**
-13. [x] **<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a>**
-14. [ ]
-15. [ ]
-16. [ ] **<a href="https://github.com/campusx-official/flask-course">Flask for Machine Learning</a></li>**
-17. [ ] **<a href="/">Data Analysis using MS Excel</a></li>**    
+---
 
-| Course Name                                  | Course Description                                                                                                                                                                                                                                                                                                                                                     | Link            |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Emotion Detection using Deep Learning        | In this course, we delve into using deep learning techniques to detect human emotions based on facial expressions. It covers essential theory, practical applications, and hands-on projects.                                                                                                                                                                           | <a href="Emotion Detection using Deep Learning/README.md">Emotion Detection with Convolutional Neural Networks (CNNs)</a> |
-| Gen AI Projects using Langchain              | This course guides you through generating AI projects using Langchain, covering everything from basics to project generation intricacies.                                                                                                                                                                                                                               | <a href="Gen AI Projects using Langchain/README.md">Introduction to Generative AI with LangChain</a> |
-| Credit Risk Modeling using ML                | Learn to use Machine Learning techniques to build models for accurately determining credit risk, starting from fundamentals to developing predictive models with real-world datasets | <a href="Credit Risk Modeling using Machine Learning/README.md">Credit Risk Modeling Techniques</a> |
-| Deep Learning Projects using PyTorch         | Dive into building practical deep learning applications like a machine translation system and a next word predictor using PyTorch, gaining hands-on experience and understanding core concepts.                                                                                                                                                                         | Link Placeholder |
-| Deep Learning Project using ANN              | Explore the world of artificial neural networks (ANN) through developing, training, and implementing ANNs in various scenarios, gaining hands-on experience in designing and fine-tuning ANN models.                                                                                                                                                                    | Link Placeholder |
-| Building an e-KYC system using Computer Vision | Explore the integration of Computer Vision in developing an e-KYC system, from basic principles to practical application in KYC processes, implementing Computer Vision techniques for identity verification and fraud detection.                                                                                                                                        | Link Placeholder |
-| 5 SQL Case Studies                           | Dive into real-world applications of SQL with five different case studies, each highlighting a unique scenario where SQL skills can be applied, designed to be interactive and hands-on.                                                                                                                                                                                | Link Placeholder |
-| Building a Time Series Forecasting Project   | Guide through developing a model to forecast future events based on historical data, exploring both traditional statistical techniques and modern machine learning techniques, with hands-on experience in manipulating time series data, building and evaluating models.                                                                                                 | Link Placeholder |
-| Gen AI Projects using Llamaindex             | Explore generating AI projects using Llamaindex, understanding its functionalities and how to use it for AI project generation, covering basics to advanced features.                                                                                                                                                                                                   | Link Placeholder |
-| End to End ML Project using AWS Sagemaker    | Guide through developing a machine learning project from scratch using AWS Sagemaker, covering data preprocessing, model development, deployment, and monitoring, to leverage its full capabilities for efficient and effective project development.                                                                                                                     | Link Placeholder |
-| Object Detection using Deep Learning   |                                                                                                                 | Link Placeholder |
-|Retrieval Augmented Generation (RAG)| | |
-|Generative AI for Vision|This course dives deep into Generative AI techniques specifically focusing on Stable Diffusion, Diffusion models, GANs, Variational Autoencoders, and leveraging hugging face models for cutting-edge projects. Gain hands-on experience in implementing advanced AI models for vision applications |<a href="/Generative AI for Vision/README.md">Generative AI for Vision</a>|
-|Building AI Agents|Learn how to create advanced AI agents using cutting-edge tools and technologies such as CrewAI, AutoGen, Langgraph, and AutoGPT. Dive into the world of artificial intelligence and develop intelligent agents that can perform complex tasks and improve automation processes.| |
-|Flask for Machine Learning|||
-|Data Analysis using MS Excel|||
+## 📚 **Course List**
 
-**Important Considerations** 
+### **Available Courses:**
+1. ✅ **[Introduction to Generative AI with LangChain](Gen AI Projects using Langchain/README.md)**
+2. ⬜ **[End-to-End Machine Learning Projects with AWS Sagemaker](Flight Price Prediction using AWS Sagemaker/README.md)**
+3. ⬜ **[Time Series Forecasting Methods](#)**
+4. ⬜ **[e-KYC Solutions Using Computer Vision](E-KYC using Computer Vision/README.md)**
+5. ⬜ **[SQL for Data Analysis and Problem Solving](5 SQL Case Studies)**
+6. ⬜ **[Emotion Detection with Convolutional Neural Networks (CNNs)](Emotion Detection using Deep Learning/README.md)**
+7. ⬜ **[Building End-to-End ML Systems with MLOps](End-to-End ML Project using MLOps/README.md)**
+8. ⬜ **[Advanced Deep Learning with PyTorch](#)**
+9. ✅ **[Credit Risk Modeling Techniques](Credit Risk Modeling using Machine Learning/README.md)**
+10. ✅ **[Leveraging LlamaIndex for Generative AI Tasks](Generative AI Projects using Llamaindex/README.md)**
+11. ⬜ **[Object Detection using Deep Learning](Object Detection using Deep Learning/README.md)**
+12. ⬜ **[Retrieval Augmented Generation (RAG)](Retrieval Augmented Generation (RAG)/README.md)**
+13. ✅ **[Generative AI for Vision](Generative AI for Vision/README.md)**
+14. ⬜ **[Flask for Machine Learning](https://github.com/campusx-official/flask-course)**
+15. ⬜ **[Data Analysis using MS Excel](#)**
 
-- [x] **Your Background:**  Are you a beginner, or do you have experience in data science, programming, or specific technologies? 
-- [x] **Your Goals:** What are you hoping to learn? Are these courses for career advancement or personal interest?
-- [x] **Course Sequencing:** Some courses may naturally build on each other (e.g., Intro to Generative AI followed by more advanced courses).
-- [x] **Prerequisites:** Do any of the courses have specific prerequisites that you need to be aware of?
+---
 
-**How to Choose**
+## 📘 **Detailed Course Descriptions**
 
-- [x] **Prioritize Your Interests:** Start with the topics that genuinely excite you.
-- [x] **Assess Difficulty:** If you're new to the field, start with introductory courses before jumping into advanced ones.
-- [x] **Check Course Descriptions:** Carefully read the descriptions and any available prerequisites to assess if the course aligns with your goals and skills.
-- [x] **Consider Time Commitment:** Ensure you can realistically dedicate the time needed for each course. 
+| Course Name                                  | Course Description                                                                                                                                                                                                                               | Link   |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Emotion Detection using Deep Learning        | Delve into deep learning techniques for detecting human emotions based on facial expressions. Includes essential theory, practical applications, and hands-on projects.                                                                             | [Emotion Detection with CNNs](Emotion Detection using Deep Learning/README.md) |
+| Gen AI Projects using LangChain              | A comprehensive guide to building generative AI projects using LangChain, covering both fundamental concepts and intricate project designs.                                                                                                         | [Introduction to Generative AI with LangChain](Gen AI Projects using Langchain/README.md) |
+| Credit Risk Modeling using ML                | Learn to develop machine learning models that accurately predict credit risk, featuring real-world datasets and techniques for predictive modeling.                                                                                                | [Credit Risk Modeling Techniques](Credit Risk Modeling using Machine Learning/README.md) |
+| Deep Learning Projects using PyTorch         | Gain hands-on experience building deep learning applications like machine translation and next-word prediction systems using PyTorch.                                                                                                             | Link Placeholder |
+| Building e-KYC System with Computer Vision   | Build an e-KYC system using Computer Vision techniques, exploring identity verification and fraud detection use cases.                                                                                                                            | Link Placeholder |
+| SQL Case Studies                             | Work through five real-world case studies to apply SQL skills in data analysis and problem-solving contexts.                                                                                                                                      | Link Placeholder |
+| Time Series Forecasting Project              | Develop models for time series forecasting, using traditional statistical methods and modern ML techniques for predictive analysis.                                                                                                               | Link Placeholder |
+| Gen AI Projects using LlamaIndex             | Explore LlamaIndex and its capabilities for AI project development, from basic setups to advanced generative AI solutions.                                                                                                                        | Link Placeholder |
+| End-to-End ML Project using AWS Sagemaker    | Learn how to build machine learning projects using AWS Sagemaker, covering all phases from data preprocessing to model deployment and monitoring.                                                                                                  | Link Placeholder |
+| Object Detection using Deep Learning         | Dive into object detection techniques using deep learning frameworks to create AI-driven systems capable of identifying and classifying objects in real-time.                                                                                        | Link Placeholder |
+| Generative AI for Vision                     | Deep dive into Stable Diffusion, GANs, Variational Autoencoders, and leveraging Hugging Face models to implement cutting-edge vision projects using Generative AI techniques.                                                                      | [Generative AI for Vision](Generative AI for Vision/README.md) |
 
+---
 
-**Disclaimer:**
+## 📝 **Important Considerations**
 
-This repository is intended for educational purposes only. All credit for the content and materials within this repository goes to CampusX. It is meant to facilitate learning and exploration within the specified subject matter. Users are encouraged to abide by ethical guidelines and use the information responsibly. The creators and contributors of this repository are not liable for any misuse or misinterpretation of the content here in.
+- **Your Background:** Are you a beginner or have prior experience in Data Science, AI, or relevant technologies?
+- **Your Goals:** What do you aim to achieve? Are you learning for career advancement or personal interest?
+- **Course Sequencing:** Some courses may build on others (e.g., Intro to Generative AI, followed by advanced AI courses).
+- **Prerequisites:** Make sure to check if any courses have specific prerequisites to help you plan accordingly.
 
+---
 
+## 🎯 **How to Choose a Course**
 
-## Social Media
+- **Prioritize Your Interests:** Start with topics that genuinely interest you.
+- **Assess Difficulty:** If you’re a beginner, start with introductory courses.
+- **Check Descriptions:** Ensure the course aligns with your goals by reviewing the descriptions and prerequisites.
+- **Time Commitment:** Plan your schedule to ensure you can dedicate enough time to the course.
+
+---
+
+## **Disclaimer**
+
+This repository is intended for **educational purposes** only. All content belongs to **CampusX**, and is designed to support learning and exploration. We encourage responsible use of the information provided. Neither the creators nor contributors are liable for any misuse or misinterpretation of the content in this repository.
+
+---
+
+## 🌐 **Connect with Us**
 
 | Platform | Link |
 |----------|------|
