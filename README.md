@@ -5,26 +5,29 @@ Welcome to **CampusX's** curated collection of comprehensive courses designed to
 
 ---
 
-## 📚 **Course List**
-
-### **Available Courses:**
-1. ✅ **[Introduction to Generative AI with LangChain](Gen AI Projects using Langchain/README.md)**
-2. ⬜ **[End-to-End Machine Learning Projects with AWS Sagemaker](Flight Price Prediction using AWS Sagemaker/README.md)**
-3. ⬜ **[Time Series Forecasting Methods](#)**
-4. ⬜ **[e-KYC Solutions Using Computer Vision](E-KYC using Computer Vision/README.md)**
-5. ⬜ **[SQL for Data Analysis and Problem Solving](5 SQL Case Studies)**
-6. ⬜ **[Emotion Detection with Convolutional Neural Networks (CNNs)](Emotion Detection using Deep Learning/README.md)**
-7. ⬜ **[Building End-to-End ML Systems with MLOps](End-to-End ML Project using MLOps/README.md)**
-8. ⬜ **[Advanced Deep Learning with PyTorch](#)**
-9. ✅ **[Credit Risk Modeling Techniques](Credit Risk Modeling using Machine Learning/README.md)**
-10. ✅ **[Leveraging LlamaIndex for Generative AI Tasks](Generative AI Projects using Llamaindex/README.md)**
-11. ⬜ **[Object Detection using Deep Learning](Object Detection using Deep Learning/README.md)**
-12. ⬜ **[Retrieval Augmented Generation (RAG)](Retrieval Augmented Generation (RAG)/README.md)**
-13. ✅ **[Generative AI for Vision](Generative AI for Vision/README.md)**
-14. ⬜ **[Flask for Machine Learning](https://github.com/campusx-official/flask-course)**
-15. ⬜ **[Data Analysis using MS Excel](#)**
+To ensure that all the links in your README are formatted consistently and are clickable, including placeholders, we can enhance the structure a little while maintaining simplicity. Here’s a revised version with consistent format and functionality:
 
 ---
+
+## Course Titles
+
+1. [x] **[Introduction to Generative AI with LangChain](Gen%20AI%20Projects%20using%20Langchain/README.md)**
+2. [ ] **[End-to-End Machine Learning Projects with AWS Sagemaker](Flight%20Price%20Prediction%20using%20AWS%20Sagemaker/README.md)**
+3. [ ] **[Time Series Forecasting Methods](#)**
+4. [ ] **[e-KYC Solutions Using Computer Vision](E-KYC%20using%20Computer%20Vision/README.md)**
+5. [ ] **[SQL for Data Analysis and Problem Solving](5%20SQL%20Case%20Studies)**
+6. [ ] **[Emotion Detection with Convolutional Neural Networks (CNNs)](Emotion%20Detection%20using%20Deep%20Learning/README.md)**
+7. [ ] **[Building End-to-End ML Systems with MLOps](End-to-End%20ML%20Project%20using%20MLOps/README.md)**
+8. [ ] **[Advanced Deep Learning with PyTorch](#)**
+9. [x] **[Credit Risk Modeling Techniques](Credit%20Risk%20Modeling%20using%20Machine%20Learning/README.md)**
+10. [x] **[Leveraging LlamaIndex for Generative AI Tasks](Generative%20AI%20Projects%20using%20Llamaindex/README.md)**
+11. [ ] **[Object Detection using Deep Learning](Object%20Detection%20using%20Deep%20Learning/README.md)**
+12. [ ] **[Retrieval Augmented Generation (RAG)](Retrieval%20Augmented%20Generation%20(RAG)/README.md)**
+13. [x] **[Generative AI for Vision](Generative%20AI%20for%20Vision/README.md)**
+14. [ ] **[Building AI Agents](#)**
+15. [ ] **[Flask for Machine Learning](https://github.com/campusx-official/flask-course)**
+16. [ ] **[Data Analysis using MS Excel](#)**
+
 
 ## 📘 **Detailed Course Descriptions**
 
