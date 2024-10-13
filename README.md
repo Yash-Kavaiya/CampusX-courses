@@ -1,11 +1,7 @@
 
-# CampusX - 10 Course Collection
+# CampusX -Free Courses Collection
 
 Welcome to **CampusX's** curated collection of comprehensive courses designed to help you master key technologies and concepts in AI, ML, Data Science, and more. 
-
----
-
-To ensure that all the links in your README are formatted consistently and are clickable, including placeholders, we can enhance the structure a little while maintaining simplicity. Here’s a revised version with consistent format and functionality:
 
 ---
 
