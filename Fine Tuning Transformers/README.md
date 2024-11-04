@@ -36,4 +36,10 @@ This course is dedicated to diving deep into the fine-tuning techniques for tran
 | Instructor name  | Link |
 |-----------------|-------------------------|
 | Fundamentals of Transformers - Part 1 |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/3Bs8GxA0IE4?si=6cHM4WuDuWyuVS0X)|
+| Fundamentals of Transformers - Part 2 |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/KOVzzamtoag?si=mGN6R2R5_u3B0E8d)|
+
+
+
+
+
 
