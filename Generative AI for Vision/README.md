@@ -1,69 +1,108 @@
-### Instructor Information
+# Generative AI for Vision Course 🎨 🤖
 
-| Instructor name | Instructor LinkedIn profile | Youtube| Github |
-|-----------------|-----------------------------|-----|---|
-| Mokarbeen Ansari | [LinkedIn](https://www.linkedin.com/in/mokarbeenansari) | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/MokarbeenAnsari) | https://github.com/MokarbeenAnsari | 
-### Course Link 
+> A comprehensive course on advanced AI techniques for vision applications, focusing on Stable Diffusion, GANs, and more.
 
-| Course Link | Language |
-|-------------|----------|
-| [Generative AI for Vision](https://learnwith.campusx.in/courses/Generative-AI-for-Vision-663d29159ad5df3d9e2c67cf) | Hinglish |
+## 📊 Course Overview
 
-**Note:** This is the free but quality course offered by CampusX.
+This in-depth course explores cutting-edge Generative AI techniques, with a specific focus on vision applications. Learn to master Stable Diffusion, Diffusion models, GANs, Variational Autoencoders, and leverage Hugging Face models for real-world projects.
 
-**Description:**
+## 👨‍🏫 Instructor Information
 
-This course dives deep into Generative AI techniques specifically focusing on Stable Diffusion, Diffusion models, GANs, Variational Autoencoders, and leveraging hugging face models for cutting-edge projects. Gain hands-on experience in implementing advanced AI models for vision applications.
+<div align="center">
 
-**Key Highlights:**
-- Explore Stable Diffusion models
-- Master GANs and Variational Autoencoders
-- Hands-on projects with hugging face models
+| Category | Link |
+|----------|------|
+| **Instructor** | Mokarbeen Ansari |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mokarbeenansari) |
+| **YouTube** | [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/MokarbeenAnsari) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/MokarbeenAnsari) |
 
-**What you will learn:**
+</div>
 
--Understanding Stable Diffusion
-    - Learn the fundamentals of Stable Diffusion models and how they enhance generative AI applications.
-- Mastering GANs and VAEs
-    - Deep dive into Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) for image generation and manipulation.
-- Project Implementation with Hugging Face
-    - Implement advanced vision projects using pre-trained models from Hugging Face library.
+## 🎓 Course Access
 
-### Videos
-| Instructor name  | Link |
-|-----------------|-------------------------|
-| Session 1 - introduction to GEN AI for Vision |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/3Bs8GxA0IE4?si=6cHM4WuDuWyuVS0X)|
-| Session 2 - Representation of Images |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/jdgKsFuX76w?si=69-lZFuAjDx_v0qX)|
-| Session 3 - Basics of Diffusion Models |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/2pZOJhWnGMY?si=YfV9wZ7HJBxe_ATE)|
-| Session 4 - Prompt Engineering for Images |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/snT9n4jzxgQ?si=taPieEFN5eO-0z2q)|
-| Session 5 - Project building and deployment |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/lZCTiWrw5l8?si=MTW_uq4uQ70c6W-2)|
+| Resource | Details |
+|----------|----------|
+| **Course Platform** | [CampusX - Generative AI for Vision](https://learnwith.campusx.in/courses/Generative-AI-for-Vision-663d29159ad5df3d9e2c67cf) |
+| **Language** | Hinglish |
+| **Pricing** | Free |
 
+## ✨ Key Highlights
 
-| Website               | Description                                                                                       | Free/Paid                    | Link                                              |
-|-----------------------|---------------------------------------------------------------------------------------------------|------------------------------|---------------------------------------------------|
-| DALL-E 2              | AI-powered image generation by OpenAI, creates images from textual descriptions.                  | Paid, with limited free use  | [Link](https://www.openai.com/dall-e-2/)          |
-| MidJourney            | AI tool for generating images based on textual prompts, known for artistic and surreal results.   | Paid, with limited free use  | [Link](https://www.midjourney.com/)               |
-| DeepArt               | Turns photos into artworks using styles of famous artists via deep neural networks.               | Paid                         | [Link](https://deepart.io/)                       |
-| Artbreeder            | Collaborative image generation using genetic algorithms and machine learning.                     | Free, with paid options      | [Link](https://www.artbreeder.com/)               |
-| RunwayML              | Provides a variety of AI tools for creatives, including image generation and editing.             | Paid, with free trial        | [Link](https://runwayml.com/)                     |
-| NightCafe Studio      | AI art generator that transforms photos into art with various styles and algorithms.              | Free, with paid options      | [Link](https://creator.nightcafe.studio/)         |
-| Deep Dream Generator  | Online tool for creating dream-like images using Google's DeepDream algorithm.                    | Free, with paid options      | [Link](https://deepdreamgenerator.com/)           |
-| Jasper Art            | AI tool for creating unique images and illustrations from textual inputs.                         | Paid                         | [Link](https://www.jasper.ai/art)                 |
-| BigGAN ImageNet       | High-quality image generation using BigGAN models from DeepMind.                                  | Free                         | [Link](https://tfhub.dev/deepmind/biggan)         |
-| StyleGAN2             | Generates high-fidelity images using NVIDIA's StyleGAN2 architecture.                             | Free                         | [Link](https://github.com/NVlabs/stylegan2)       |
-| GANPaint Studio       | Interactive tool for generating images with GANs, allowing users to edit the generated scenes.    | Free                         | [Link](http://ganpaint.io/)                       |
-| PaintsChainer         | AI-based automatic colorization tool for black-and-white images or sketches.                      | Free, with paid options      | [Link](https://paintschainer.preferred.tech/)     |
-| Pix2Pix               | Converts sketches into realistic images using conditional GANs.                                  | Free                         | [Link](https://affinelayer.com/pixsrv/)           |
-| DeepDream             | Image generation tool using Google's DeepDream neural network.                                    | Free                         | [Link](https://deepdreamgenerator.com/)           |
-| NeuralStyle.Art       | Generates artworks by combining the content of one image with the style of another.               | Free, with paid options      | [Link](https://neuralstyle.art/)                  |
-| Craiyon               | Formerly known as DALL-E mini, it generates images from text prompts.                             | Free                         | [Link](https://www.craiyon.com/)                  |
-| Let's Enhance         | Uses AI to upscale images without losing quality, and also offers various image enhancement tools.| Free, with paid options      | [Link](https://letsenhance.io/)                   |
-| VQ-VAE-2              | Generates high-quality images using vector quantized variational autoencoders.                    | Free                         | [Link](https://github.com/deepmind/vq-vae-2)      |
-| GauGAN                | NVIDIA's AI painting tool that turns doodles into photorealistic landscapes.                      | Free                         | [Link](https://www.nvidia.com/en-us/research/ai-playground/) |
-| DeepArtEffects        | AI-based tool to turn photos into art using various styles and filters.                           | Paid, with limited free use  | [Link](https://www.deeparteffects.com/)           |
-| Playground AI         | AI art generator offering various creative tools for image generation.                            | Free, with paid options      | [Link](https://playgroundai.com/)                 |
-| Photolemur            | AI photo enhancer that automatically improves image quality.                                      | Paid                         | [Link](https://photolemur.com/)                   |
-| Prisma                | Transforms photos into artworks using AI-powered filters inspired by famous artists.              | Free, with paid options      | [Link](https://prisma-ai.com/)                    |
-| Artisto               | AI video and photo editor that applies artistic effects to images and videos.                     | Free, with paid options      | [Link](https://artisto.my.com/)                   |
-| DeepArt.IO            | Uses deep learning to create artworks in the style of famous paintings.                           | Paid                         | [Link](https://deepart.io/)                       |
+- 🔍 Deep dive into Stable Diffusion models
+- 🎯 Comprehensive coverage of GANs and VAEs
+- 🛠️ Hands-on projects using Hugging Face
+- 📚 Real-world implementation experience
 
+## 📚 Learning Outcomes
+
+### 1. Understanding Stable Diffusion
+- Master the fundamentals of Stable Diffusion models
+- Learn implementation techniques for generative AI applications
+
+### 2. GANs and VAEs Mastery
+- Deep understanding of Generative Adversarial Networks
+- Practical implementation of Variational Autoencoders
+- Image generation and manipulation techniques
+
+### 3. Hugging Face Integration
+- Hands-on experience with pre-trained models
+- Project implementation using Hugging Face library
+
+## 📺 Course Content
+
+| Session | Topic | Link |
+|---------|-------|------|
+| 1️⃣ | Introduction to GEN AI for Vision | [![YouTube](https://img.shields.io/badge/Watch-Now-red)](https://youtu.be/3Bs8GxA0IE4?si=6cHM4WuDuWyuVS0X) |
+| 2️⃣ | Representation of Images | [![YouTube](https://img.shields.io/badge/Watch-Now-red)](https://youtu.be/jdgKsFuX76w?si=69-lZFuAjDx_v0qX) |
+| 3️⃣ | Basics of Diffusion Models | [![YouTube](https://img.shields.io/badge/Watch-Now-red)](https://youtu.be/2pZOJhWnGMY?si=YfV9wZ7HJBxe_ATE) |
+| 4️⃣ | Prompt Engineering for Images | [![YouTube](https://img.shields.io/badge/Watch-Now-red)](https://youtu.be/snT9n4jzxgQ?si=taPieEFN5eO-0z2q) |
+| 5️⃣ | Project Building and Deployment | [![YouTube](https://img.shields.io/badge/Watch-Now-red)](https://youtu.be/lZCTiWrw5l8?si=MTW_uq4uQ70c6W-2) |
+
+## 🛠️ Recommended Tools & Resources
+
+### Premium Tools
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| **DALL-E 2** | OpenAI's advanced image generation | Paid with free tier |
+| **MidJourney** | Artistic image generation | Paid with trial |
+| **RunwayML** | Creative AI toolkit | Paid with trial |
+| **Jasper Art** | AI-powered illustration creation | Paid |
+
+### Free & Freemium Tools
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| **Artbreeder** | Collaborative image generation | Free with paid options |
+| **NightCafe Studio** | AI art creation platform | Free with premium features |
+| **Craiyon** | Text-to-image generation | Free |
+| **GauGAN** | NVIDIA's AI painting tool | Free |
+
+### Research & Development Tools
+| Tool | Description | Access |
+|------|-------------|---------|
+| **StyleGAN2** | NVIDIA's image generation architecture | Open Source |
+| **BigGAN ImageNet** | DeepMind's high-quality generation | Free |
+| **VQ-VAE-2** | Vector quantized autoencoders | Open Source |
+| **Pix2Pix** | Conditional GAN implementation | Free |
+
+### Additional Resources
+| Tool | Type | Pricing |
+|------|------|---------|
+| **DeepArt.IO** | Style transfer | Paid |
+| **Let's Enhance** | Image enhancement | Freemium |
+| **Prisma** | Artistic filters | Free with paid features |
+| **Photolemur** | AI photo enhancement | Paid |
+
+## 📝 Note
+
+This course is offered for free by CampusX while maintaining high-quality educational standards. It provides an excellent opportunity to learn cutting-edge Generative AI techniques without any cost barrier.
+
+---
+
+<div align="center">
+
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/MokarbeenAnsari)
+[![Course Status](https://img.shields.io/badge/Status-Active-success)](https://learnwith.campusx.in)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://github.com/MokarbeenAnsari)
+
+</div>
