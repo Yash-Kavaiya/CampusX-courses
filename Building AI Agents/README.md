@@ -1,42 +1,55 @@
-### Instructor Information
+# Building AI Agents Course Documentation 🤖
 
-| Instructor name | Instructor LinkedIn profile | Instructor GitHub profile | Instructor Medium blog |
-|-----------------|-----------------------------|--------------------------|------------------------|
-| Md Amanatullah | [LinkedIn](https://www.linkedin.com/in/md-amanatullah12345/) | [GitHub](https://github.com/Aman78695) | [Medium](https://medium.com/@amanatulla1606) |
+## 👨‍🏫 Instructor Information 
 
-### Course Link
+| Category | Link |
+|----------|------|
+| 📊 Name | Md Amanatullah |
+| 📱 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-amanatullah12345/) |
+| 💻 GitHub | [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Aman78695) |
+| 📝 Medium | [![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://medium.com/@amanatulla1606) |
 
-| Course Link | Language |
-|-------------|----------|
-| [Building AI Agents](https://learnwith.campusx.in/courses/Building-AI-Agents-663d25be012c994c18513e70) | Hinglish |
 
-**Note:** This is the free but quality course offered by CampusX.
+## 🎓 Course Information
 
+[![Course](https://img.shields.io/badge/CampusX-Building_AI_Agents-orange)](https://learnwith.campusx.in/courses/Building-AI-Agents-663d25be012c994c18513e70)
+
+**Language**: Hinglish
+
+> **Note**: This is a free but quality course offered by CampusX.
+
+## 📋 Course Overview
 **Description:**
 
 Learn how to create advanced AI agents using cutting-edge tools and technologies such as CrewAI, AutoGen, Langgraph, and AutoGPT. Dive into the world of artificial intelligence and develop intelligent agents that can perform complex tasks and improve automation processes.
+### 🎯 Key Highlights
 
-**Key Highlights:**
+- 🔧 **Advanced Tools**: Utilize CrewAI, AutoGen, Langgraph, and AutoGPT for AI agent development
+- 🤖 **Intelligent Agents**: Create intelligent agents with advanced capabilities
+- ⚡ **Modern Technology**: Enhance automation processes using cutting-edge technologies
 
-- Utilize CrewAI, AutoGen, Langgraph, and AutoGPT for AI agent development
-- Create intelligent agents with advanced capabilities
-- Enhance automation processes using cutting-edge technologies
+### 📚 Learning Outcomes
 
-**What you will learn:**
+1. **Develop AI Agents**
+   - Master agent development using multiple frameworks
+   - Understand agent architecture and implementation
 
-- Develop AI Agents
-    - Learn how to build advanced AI agents using CrewAI, AutoGen, Langgraph, and AutoGPT
-- Implement Automation
-    - Explore how AI agents can enhance automation processes in various industries
-- Optimize Performance
-    - Discover techniques to optimize the performance of AI agents for efficiency
+2. **Implement Automation**
+   - Create automated workflows
+   - Integrate AI agents in real-world scenarios
+
+3. **Optimize Performance**
+   - Learn performance tuning techniques
+   - Implement efficiency improvements
+
+## 📺 Course Sessions
+
+| Session | Topic | Link |
+|---------|-------|------|
+| 1️⃣ | Introduction to AI Agents | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/X74sCWjEFCo?si=jtJuq90mR9gf5ABo) |
+| 2️⃣ | Working with Agent Frameworks | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/X74sCWjEFCo?si=BHbErHpzMnsHgGcJ) |
+| 3️⃣ | Agentic RAG with Llama Index | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/sQrDm6Kj5iM?si=RBwZ1wB132jTXS65) |
+| 4️⃣ | Crew AI and Transformer Agents | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/YgIVPctRyfE?si=NtMdGJhfn-X0PTuJ) |
+| 5️⃣ | AI Agent with Autogen | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/tx2VMzgmt0o?si=NmkheMWWHjv1VDtb) |
 
 
-### Videos
-| Instructor name  | Link |
-|-----------------|-------------------------|
-| Session 1 - Introduction to AI Agents |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/X74sCWjEFCo?si=jtJuq90mR9gf5ABo)|
-| Session 2 - Working with Agent Frameworks | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/X74sCWjEFCo?si=BHbErHpzMnsHgGcJ) |
-| Session 3 - Agentic RAG with Llama Index | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/sQrDm6Kj5iM?si=RBwZ1wB132jTXS65) |
-| Session 4 - Crew AI and Transformer Agents | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/YgIVPctRyfE?si=NtMdGJhfn-X0PTuJ) |
-|Session 5 - AI Agent with Autogen | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/tx2VMzgmt0o?si=NmkheMWWHjv1VDtb)
