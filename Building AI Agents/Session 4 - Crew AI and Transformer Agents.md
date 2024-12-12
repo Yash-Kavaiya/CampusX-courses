@@ -915,5 +915,13 @@ def verify_article(article):
    - Source checking
    - Style consistency
 
-This system demonstrates how CrewAI can be used to create a sophisticated article creation pipeline using multiple specialized AI agents working together efficiently.
+| Course Name | Platform | Instructor | Duration | Level | Description | Link |
+|------------|----------|------------|----------|--------|-------------|------|
+| Practical Multi AI Agents and Advanced Use Cases with crewAI | DeepLearning.AI | João Moura | 2h 43m | Beginner | Build practical apps like automated project planning, lead-scoring, and data analysis with 15 video lessons and 7 code examples[1] | https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/ |
+| CrewAI Step-by-Step Complete Course | YouTube | Alejandro AO | 1h 06m | Beginner | Comprehensive tutorial on creating autonomous agent teams with hands-on coding and real-world examples[2] | https://www.youtube.com/watch?v=kBXYFaZ0EN0 |
+| Multi AI Agent Systems with crewAI | DeepLearning.AI | João Moura | 2h 42m | Beginner | Learn to design and organize AI agent teams with 19 video lessons and 7 practical examples[3] | https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/ |
+| Multi AI Agent Systems with crewAI (1-Hour Project) | Coursera | Joe Moura | 1h | Beginner | Hands-on project focusing on practical implementation of AI agent systems[4] | https://www.coursera.org/projects/multi-ai-agent-systems-with-crewai |
+| Crew AI Tutorial | Simplilearn | - | - | Beginner | Introduction to AI-driven workplace solutions and implementation[5] | https://www.simplilearn.com/tutorials/generative-ai-tutorial/crew-ai |
+
+
 
