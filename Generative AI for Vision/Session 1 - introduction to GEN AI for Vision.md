@@ -494,20 +494,3 @@ Here's a comparison of the traditional Machine Learning/Deep Learning (ML/DL) wo
    - Applications include text generation, image synthesis, music composition, and data augmentation.
 
 While the traditional ML/DL workflow focuses on learning patterns for prediction or classification tasks, the GenAI workflow emphasizes generating new, realistic data samples that resemble the training data distribution. Both workflows involve iterative processes but with different goals, techniques, and challenges.
-
-
-
-Citations:
-[1] https://saiwa.ai/blog/computer-vision-models/
-[2] https://www.alignminds.com/the-12-most-popular-computer-vision-tools-in-2024/
-[3] https://encord.com/blog/top-computer-vision-models/
-[4] https://viso.ai/computer-vision/best-lightweight-computer-vision-models/
-[5] https://www.geeksforgeeks.org/top-computer-vision-models/
-[6] https://www.hitechbpo.com/blog/top-object-detection-models.php
-[7] https://opencv.org/blog/deep-learning-with-computer-vision/
-[8] https://www.linkedin.com/pulse/top-10-breakthrough-computer-vision-technologies-shaping-2024-v1igf
-[9] https://viso.ai/computer-vision/image-recognition/
-[10] https://roboflow.com/models
-[11] https://dagshub.com/blog/top-computer-vision-generative-models/
-[12] https://www.run.ai/guides/deep-learning-for-computer-vision
-[13] https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning/notebook
