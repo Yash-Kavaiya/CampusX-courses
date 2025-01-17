@@ -1,11 +1,15 @@
-# Session 1 - Introduction to GEN AI for Vision
+# Session 1 - Introduction to GEN AI for Vision 🖼️
 
-### Course Objective
-- Introduction to Generative Al.
-- Foundation of Image Representation.
-- Diffusion Model Basics.
-- Prompt Engineering for Images.
-- Project.
+## Course Objective 🎯
+
+This session aims to provide a comprehensive introduction to Generative AI for vision tasks. By the end of this session, you'll have a solid understanding of:
+
+1. 🧠 Introduction to Generative Al.
+2. 🖼️ Foundation of Image Representation.
+3. 🌫️ Diffusion model concepts
+4. 🗣️ Prompt engineering for images
+5. 🛠️ Hands-on project experience
+
 
 ### Agenda
 
@@ -33,6 +37,62 @@ Your explanation is mostly accurate, but let me provide a more comprehensive ove
 
 It's important to note that while AI aims to mimic human intelligence, it does not necessarily replicate the cognitive processes of the human brain. AI systems operate based on the principles of mathematics, logic, and statistical models, rather than biological mechanisms.
 
+
+
+
+
+
+
+
+## Agenda 📅
+
+| Topic | Description |
+|-------|-------------|
+| AI Fundamentals | Understanding AI, its types, and applications |
+| Generative vs Discriminative AI | Comparing two major AI paradigms |
+| Prompt Engineering | Crafting effective prompts for AI models |
+| Language & Vision Models | Exploring AI models for text and image tasks |
+| Image Generation Models | Deep dive into AI-powered image creation |
+| Conditional vs Unconditional Generation | Understanding different image generation approaches |
+| Vision Model Overview | Survey of popular vision models |
+| Generative AI Workflow | Step-by-step process of working with Generative AI |
+
+## What is AI? 🤖
+
+Artificial Intelligence (AI) is a multidisciplinary field of computer science focused on creating intelligent machines capable of performing tasks that typically require human intelligence.
+
+### Key Aspects of AI:
+
+1. **Cognitive Simulation**: AI systems aim to mimic human cognitive functions such as:
+   - 👁️ Visual perception
+   - 🗣️ Speech recognition
+   - 🧠 Decision-making
+   - 🌐 Language translation
+
+2. **Learning & Adaptation**: Modern AI systems can:
+   - 📊 Learn from data
+   - 🔄 Improve performance over time
+   - 🎯 Adapt to new situations
+
+3. **Problem Solving**: AI excels at:
+   - 🧩 Complex problem-solving
+   - 📈 Pattern recognition
+   - 🔍 Data analysis at scale
+
+> 💡 **Note**: While AI aims to replicate human-like intelligence, it operates on mathematical and statistical principles rather than biological mechanisms.
+
+### AI Subfields:
+
+```mermaid
+graph TD
+    A[Artificial Intelligence] --> B[Machine Learning]
+    A --> C[Natural Language Processing]
+    A --> D[Computer Vision]
+    A --> E[Robotics]
+    B --> F[Deep Learning]
+    F --> G[Neural Networks]
+```
+
 ## Discriminative AI vs Generative AI
 
 | Aspect | Discriminative AI | Generative AI |
@@ -53,6 +113,85 @@ It's important to note that while AI aims to mimic human intelligence, it does n
 
 Discriminative models are better suited for tasks that involve classification, prediction, or decision-making, where the goal is to assign input data to predefined categories or make predictions based on labeled data. Generative models, on the other hand, are more suitable for tasks that involve generating new data samples, such as text generation, image synthesis, or data augmentation.
 
+# Discriminative AI vs Generative AI: A Comprehensive Comparison 🤖🎨
+
+## Overview
+
+This section explores the fundamental differences between Discriminative AI and Generative AI, two distinct paradigms in artificial intelligence with unique characteristics, applications, and strengths.
+
+## Comparison Table
+
+| Aspect | Discriminative AI 🔍 | Generative AI 🎨 |
+|--------|----------------------|-------------------|
+| **Definition** | Models that learn to distinguish or classify input data into predefined categories or labels | Models that learn underlying patterns and distributions of input data to generate new, similar samples |
+| **Primary Task** | Classification, regression, and prediction | Text generation, image synthesis, music composition, data augmentation |
+| **Training Data** | Labeled data | Unlabeled data |
+| **Learning Objective** | Find decision boundaries between classes | Learn joint probability distribution of data |
+| **Example Applications** | Image classification, spam detection, sentiment analysis | Text generation (GPT), image creation (DALL-E), music composition |
+| **Evaluation Metrics** | Accuracy, precision, recall, F1-score | Perceptual quality, diversity, similarity to training data |
+| **Key Limitation** | Cannot generate new data samples | May produce implausible or unrealistic outputs |
+
+## Detailed Explanation
+
+### Discriminative AI 🔍
+
+Discriminative models focus on learning the boundaries between different classes or categories in the input data. They excel at tasks that involve classification or prediction based on labeled training data.
+
+```mermaid
+graph LR
+    A[Input Data] --> B[Discriminative Model]
+    B --> C[Classification/Prediction]
+    B --> D[Decision Boundary]
+```
+
+#### Key Characteristics:
+- 📊 Trained on labeled data
+- 🎯 Optimized for classification accuracy
+- 🧠 Learn to map inputs directly to outputs
+
+#### Popular Discriminative Models:
+1. Logistic Regression
+2. Support Vector Machines (SVMs)
+3. Decision Trees
+4. Convolutional Neural Networks (CNNs) for image classification
+
+### Generative AI 🎨
+
+Generative models learn the underlying structure and patterns of the input data, allowing them to generate new, similar samples. They are particularly useful for creative tasks and data augmentation.
+
+```mermaid
+graph LR
+    A[Input Data] --> B[Generative Model]
+    B --> C[Learn Data Distribution]
+    C --> D[Generate New Samples]
+```
+
+#### Key Characteristics:
+- 🧩 Trained on unlabeled data
+- 🌈 Focus on capturing data distribution
+- 🎭 Can generate diverse, novel outputs
+
+#### Popular Generative Models:
+1. Variational Autoencoders (VAEs)
+2. Generative Adversarial Networks (GANs)
+3. Transformer-based language models (e.g., GPT series)
+4. Diffusion models (e.g., Stable Diffusion)
+
+## Practical Implications
+
+Understanding the differences between discriminative and generative AI is crucial for:
+
+1. 🎯 **Task Selection**: Choosing the right model type for specific AI applications
+2. 🛠️ **Model Development**: Guiding the design and training process of AI systems
+3. 📊 **Performance Evaluation**: Selecting appropriate metrics for model assessment
+4. 🔬 **Research Direction**: Informing future developments in AI and machine learning
+
+## Conclusion
+
+While discriminative AI excels at classification and prediction tasks, generative AI opens up new possibilities in content creation and data synthesis. Both paradigms play crucial roles in advancing the field of artificial intelligence, each with its unique strengths and applications.
+
+> 💡 **Pro Tip**: Consider combining discriminative and generative approaches for hybrid models that leverage the strengths of both paradigms!
+
 ## What is Prompt Engineering?
 Prompt engineering refers to the process of carefully crafting the input prompts or queries that are fed into large language models (LLMs) or other AI systems to elicit desired outputs or behaviors. It is a crucial aspect of getting the most out of these powerful AI models and tailoring their responses to specific tasks or use cases.
 
@@ -69,6 +208,109 @@ The key aspects of prompt engineering include:
 5. **Prompt Adaptation**: Adapting or fine-tuning the prompt engineering techniques for specific domains, tasks, or use cases to optimize the model's performance and outputs for those scenarios.
 
 Effective prompt engineering can significantly improve the quality, consistency, and reliability of the outputs generated by large language models and other AI systems. It is particularly important for applications where accurate and tailored responses are critical, such as in customer service, content generation, or decision support systems.
+# Prompt Engineering: Crafting AI Interactions 🎨🤖
+
+## Overview
+
+Prompt engineering is the art and science of designing input queries for AI models to elicit desired outputs. It's a crucial skill for maximizing the potential of large language models (LLMs) and other AI systems.
+
+```mermaid
+graph TD
+    A[Prompt Engineering] --> B[Prompt Design]
+    A --> C[Prompt Tuning]
+    A --> D[Prompt Combination]
+    A --> E[Prompt Filtering]
+    A --> F[Prompt Adaptation]
+```
+
+## Key Aspects of Prompt Engineering
+
+### 1. Prompt Design 📝
+
+Crafting the initial prompt with precision and purpose.
+
+- **Objectives**:
+  - Provide context
+  - Set clear instructions
+  - Establish desired formatting
+
+- **Techniques**:
+  - Few-shot learning
+  - Zero-shot prompting
+  - Contextual framing
+
+### 2. Prompt Tuning 🔧
+
+Iterative refinement process to enhance output quality.
+
+| Step | Action | Purpose |
+|------|--------|---------|
+| 1 | Analyze output | Identify areas for improvement |
+| 2 | Adjust prompt | Refine instructions or context |
+| 3 | Test & evaluate | Assess impact of changes |
+| 4 | Repeat | Continuously optimize |
+
+### 3. Prompt Combination 🧩
+
+Merging multiple prompts for complex tasks.
+
+```python
+def combine_prompts(context, instruction, examples):
+    return f"""
+    Context: {context}
+    Instruction: {instruction}
+    Examples: {examples}
+    Now, please respond:
+    """
+```
+
+### 4. Prompt Filtering 🚫
+
+Mitigating undesirable outputs through strategic prompting.
+
+- Bias reduction
+- Hallucination prevention
+- Content safety guidelines
+
+### 5. Prompt Adaptation 🎯
+
+Tailoring techniques for specific use cases.
+
+| Domain | Adaptation Strategy |
+|--------|---------------------|
+| Customer Service | Empathy-focused prompts |
+| Technical Writing | Jargon-aware instructions |
+| Creative Tasks | Open-ended, inspirational cues |
+
+## Best Practices for Effective Prompt Engineering
+
+1. 🎯 **Be Specific**: Clearly define the desired output format and content.
+2. 🧠 **Provide Context**: Give the AI model relevant background information.
+3. 🔄 **Iterate**: Continuously refine prompts based on outputs.
+4. 📏 **Use Constraints**: Set boundaries for the AI's responses when needed.
+5. 📚 **Leverage Examples**: Include sample inputs and outputs for guidance.
+
+## Applications of Prompt Engineering
+
+- 💬 Chatbots & Virtual Assistants
+- 📊 Data Analysis & Visualization
+- 🖋️ Content Generation
+- 🔍 Information Retrieval
+- 🧮 Problem-Solving & Decision Support
+
+> 💡 **Pro Tip**: Effective prompt engineering is as much an art as it is a science. Experiment, iterate, and always consider the end-user experience!
+
+## Conclusion
+
+Mastering prompt engineering is essential for unlocking the full potential of AI models. By carefully crafting inputs, we can guide these powerful tools to produce more accurate, relevant, and useful outputs across a wide range of applications.
+
+---
+
+🔗 **Further Reading**:
+- [Advanced Prompt Engineering Techniques](https://example.com/advanced-prompts)
+- [AI Ethics in Prompt Design](https://example.com/ai-ethics-prompts)
+- [Case Studies in Successful Prompt Engineering](https://example.com/prompt-case-studies)
+
 
 | Aspect | Language Model | Vision Model |
 |--------|-----------------|--------------|
@@ -175,6 +417,44 @@ Most popular and influential vision models for image generation tasks, particula
 
 These models have democratized the creation of visual content by allowing users to generate unique and imaginative images from natural language descriptions. They have found applications in various domains, including art, design, advertising, education, and research.
 
+Let me present a comprehensive overview of popular computer vision models in organized tables based on their primary functions.
+
+## Image Classification Models
+
+| Model | Key Features | Performance |
+|-------|--------------|-------------|
+| CoCa | - Integrates contrastive and generative learning<br>- Combines image and text embeddings | 91% Top-1 accuracy on ImageNet[3] |
+| PaLI | - Uses 4B parameter vision transformer<br>- Supports 100+ languages | 90.9% Top-1 accuracy on ImageNet[3] |
+| CoAtNet-7 | - Hybrid network with conv and attention layers<br>- Balances generalization and capacity | 90.88% Top-1 accuracy on ImageNet[3] |
+| DaViT | - Combines spatial and channel self-attention<br>- Optimized for efficiency | 90.4% Top-1 accuracy on ImageNet[3] |
+| FixEfficientNet | - Enhanced EfficientNet architecture<br>- Addresses train-test discrepancies | 88.5% Top-1 accuracy on ImageNet[3] |
+
+## Object Detection Models
+
+| Model | Key Features | Performance |
+|-------|--------------|-------------|
+| Co-DETR | - Advanced detection transformer<br>- State-of-the-art performance | 66.0% mAP on COCO[3] |
+| InternImage | - Enhanced image understanding<br>- Robust feature extraction | 65.4% mAP on COCO[3] |
+| Focal-Stable-DINO | - Stable detection performance<br>- Advanced feature fusion | 64.8% mAP on COCO[3] |
+| YOLOv7 | - Real-time object detection<br>- Optimized speed-accuracy trade-off | 56.6% mAP on COCO[3] |
+
+## Cloud-Based Vision Services
+
+| Service | Provider | Key Capabilities |
+|---------|----------|-----------------|
+| Amazon Rekognition | AWS | - Facial analysis<br>- Content moderation<br>- Object tracking[2] |
+| Azure Computer Vision | Microsoft | - Image analysis<br>- OCR<br>- Video understanding[2] |
+| Google Cloud Vision | Google | - Image annotation<br>- Content moderation<br>- Machine learning integration[2] |
+| IBM Watson Visual Recognition | IBM | - Medical image analysis<br>- Custom model training<br>- Enterprise features[2] |
+
+## Development Tools and Frameworks
+
+| Tool | Key Features | Primary Use Cases |
+|------|--------------|------------------|
+| OpenCV | - Multiple language support<br>- Extensive library<br>- Object detection capabilities | Robotics, AR, Quality inspection[2] |
+| TensorFlow | - End-to-end platform<br>- Pre-trained models<br>- Security features | Industrial automation, Deep learning[2] |
+| NVIDIA DeepStream | - GPU-accelerated<br>- Real-time processing<br>- Video analytics | Smart cities, Healthcare, Industrial automation[2] |
+
 ## Generative AI Workflow
 Here's a comparison of the traditional Machine Learning/Deep Learning (ML/DL) workflow and the Generative AI (GenAI) workflow, presented in a markdown table:
 
@@ -214,3 +494,20 @@ Here's a comparison of the traditional Machine Learning/Deep Learning (ML/DL) wo
    - Applications include text generation, image synthesis, music composition, and data augmentation.
 
 While the traditional ML/DL workflow focuses on learning patterns for prediction or classification tasks, the GenAI workflow emphasizes generating new, realistic data samples that resemble the training data distribution. Both workflows involve iterative processes but with different goals, techniques, and challenges.
+
+
+
+Citations:
+[1] https://saiwa.ai/blog/computer-vision-models/
+[2] https://www.alignminds.com/the-12-most-popular-computer-vision-tools-in-2024/
+[3] https://encord.com/blog/top-computer-vision-models/
+[4] https://viso.ai/computer-vision/best-lightweight-computer-vision-models/
+[5] https://www.geeksforgeeks.org/top-computer-vision-models/
+[6] https://www.hitechbpo.com/blog/top-object-detection-models.php
+[7] https://opencv.org/blog/deep-learning-with-computer-vision/
+[8] https://www.linkedin.com/pulse/top-10-breakthrough-computer-vision-technologies-shaping-2024-v1igf
+[9] https://viso.ai/computer-vision/image-recognition/
+[10] https://roboflow.com/models
+[11] https://dagshub.com/blog/top-computer-vision-generative-models/
+[12] https://www.run.ai/guides/deep-learning-for-computer-vision
+[13] https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning/notebook
